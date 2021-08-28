@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "../assets/plugins/bootstrap-select-1.9.3/sass/variables.scss"
+    ],
+    "names": [],
+    "file": "variables.css"
+}
