@@ -5,7 +5,7 @@
         <!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=edge"><![endif]-->
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title> Ковры дорожки</title>
+        <title> Ковры дорожки ковролин</title>
 
         <!-- Favicon -->
         <link rel="apple-touch-icon-precomposed" sizes="144x144" href="assets/ico/apple-touch-icon-144-precomposed.png">
@@ -270,7 +270,7 @@
                             <div class="col-md-3 col-sm-6 col-xs-12 isotope-item tab-1 tab-3 tab-5">
                                 <div class="portfolio-wrapper">
                                     <div class="portfolio-thumb">
-                                        <img src="https://www.carpet-gold.ru/upload/belg%20v%20int%201.jpg" alt="">
+                                        <img src="https://kover-russia.ru/upload/resize_cache/iblock/625/650_2000_1/ztljxmrqbijcoviygqn5l6e0nug15ngv.jpg" alt="">
                                         <div class="portfolio-content">                                            
                                             <div class="pop-up-icon">                 
                                                 <a class="center-link" href="#product-preview1" data-toggle="modal"><i class="fa fa-search"></i></a>
@@ -278,7 +278,7 @@
                                         </div>
                                     </div>
                                     <div class="product-content">
-                                        <h3> <a class="title-3 fsz-18" href="#">GT SENSOR COMP 27.5</a> </h3>
+                                        <h3> <a class="title-3 fsz-18" href="#">Ковер MODA 9807 ACIK GRI</a> </h3>
                                         <p class="font-2">Start from <span class="thm-clr"> 8 000 р </span> </p>    
                                     </div>
                                 </div>
@@ -762,7 +762,10 @@
                                 </div>
 
                                 <div itemprop="description" class="fsz-15">
-                                    <p>Qossi is an emerging company and dedicated to making high quality bags and fashions.Qossi designers are internationally renowned designers,having participated in many international fashion designing contests,and perform outstandingly</p>                                  
+                                    <p>Ищете лучший ковер в любую комнату? Рекомендуем обратить внимание на MODA 9807 ACIK GRI из коллекции MODA! Его стильный дизайн станет изюминкой интерьера и привнесет в него свежие нотки.
+                                    Производитель - , Турция, что означает безупречное качество изготовления ковров по доступной стоимости. Красивый цвет, привлекательный современный стиль, качественные материалы (), приятный на ощупь ворс высотой 8 мм - лишь наиболее очевидные причины, по которым «MODA 9807 ACIK GRI» заслуженно популярен среди наших клиентов. И вы можете убедиться в том, что востребованность этого коврового изделия полностью оправдана - достаточно заказать его в нашем интернет-магазине с доставкой в Москве или с отправкой транспортной компанией в любой город России, а также в Казахстан и Республику Беларусь.
+                                    Благодаря сотрудничеству напрямую с производителем, мы рады предложить вам лучшие цены на российском рынке ковров, а частые акции сделают вашу покупку еще выгоднее.
+                                    Украсьте интерьер современным ковром MODA 9807 ACIK GRI!</p>                                  
                                 </div>
 
                                 <ul class="stock-detail list-items fsz-12">
