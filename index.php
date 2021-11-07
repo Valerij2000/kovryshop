@@ -61,7 +61,7 @@
                     </div>
                 </div>
                 <div class="gst-slide">
-                    <img src="https://dekoriko.ru/images/article/orig/2017/11/kovrovye-dorozhki.jpeg" alt=""/>
+                    <img src="https://dizainexpert.ru/wp-content/uploads/2020/03/kovrovaya-dorozhka-v-prihozhej.png" alt=""/>
                     <div class="gst-caption container theme-container">
                         <div>
                             <div class="caption-center">
@@ -80,7 +80,7 @@
                                 <p class="lgt-gry hidden-xs">Ковровые покрытия без добавления клея и синтетических веществ, только натуральный шелк.</p>
                                 <a class="fancy-btn-alt fsz-16" href="category-liner.php">Посмотреть каталог</a>
                             </div>
-                        </div>
+                        </div>  
                     </div>
                 </div>
             </div>
@@ -97,7 +97,7 @@
                                     <h2> <span class="sec-title fsz-30 wht-clr"> Шерстянной ковер </span> 
                                         <br>
                                         <span class="light-font-3 fsz-33 thm-clr">20 000 р </span></h2>
-                                    <a href="#" class="fancy-btn fancy-btn-small">Shop Now</a>
+                                    <a href="#" class="fancy-btn fancy-btn-small">Помотреть</a>
                                 </div>
                             </div>
                         </div>
@@ -114,7 +114,7 @@
                                     <h2> <span class="sec-title fsz-40 wht-clr"> shaggy </span> 
                                         <br>
                                         <span class="light-font-3 fsz-33 thm-clr">12 000 р </span> </h2>                                  
-                                    <a href="#" class="fancy-btn fancy-btn-small">Shop Now</a>
+                                    <a href="#" class="fancy-btn fancy-btn-small">Помотреть</a>
                                 </div>
                             </div>
                         </div>
@@ -130,7 +130,7 @@
                                     <h2> <span class="sec-title fsz-40 wht-clr">Велюр </span> 
                                         <br>
                                         <span class="light-font-3 fsz-33 thm-clr">10 000 р </span> </h2>                                    
-                                    <a href="#" class="fancy-btn fancy-btn-small">Shop Now</a>
+                                    <a href="#" class="fancy-btn fancy-btn-small">Помотреть</a>
                                 </div>
                             </div>
                         </div>
@@ -166,8 +166,8 @@
                                 <img src="https://images.ua.prom.st/1091667745_w640_h640_krasivye-kovry-na.jpg" alt="" />                                                  
                             </div>
                             <div class="product-content">
-                                <h3> <a href="single-product.html" class="title-2"> MOUNTAIN BIKES </a> </h3>
-                                <p class="font-2">Start from <span class="thm-clr"> $599.00 </span> </p>    
+                                <h3> <a href="single-product.html" class="title-2"> S </a> </h3>
+                                <p class="font-2">Цена от <span class="thm-clr">  </span> </p>    
                             </div>
                         </div>
 
@@ -177,7 +177,7 @@
                             </div>
                             <div class="product-content">
                                 <h3> <a href="single-product.html" class="title-2">BMX BIKES</a> </h3>
-                                <p class="font-2">Start from <span class="thm-clr"> $399.00 </span> </p>    
+                                <p class="font-2">Цена от <span class="thm-clr"> $399.00 </span> </p>    
                             </div>
                         </div>
 
@@ -187,7 +187,7 @@
                             </div>
                             <div class="product-content">
                                 <h3> <a href="single-product.html" class="title-2">ROAD BIKES</a> </h3>
-                                <p class="font-2">Start from <span class="thm-clr"> $299.00 </span> </p>    
+                                <p class="font-2">Цена от <span class="thm-clr">12 000 р. </span> </p>    
                             </div>
                         </div>
 
@@ -196,8 +196,8 @@
                                 <img src="https://www.star-carpet.ru/images/kak-vybrat-kover-v-gostinuyu.jpg" alt="" />                                                  
                             </div>
                             <div class="product-content">
-                                <h3> <a href="single-product.html" class="title-2"> MOUNTAIN BIKES </a> </h3>
-                                <p class="font-2">Start from <span class="thm-clr"> $599.00 </span> </p>    
+                                <h3> <a href="single-product.html" class="title-2"> S </a> </h3>
+                                <p class="font-2">Цена от <span class="thm-clr">  </span> </p>    
                             </div>
                         </div>
 
@@ -207,12 +207,12 @@
                             </div>
                             <div class="product-content">
                                 <h3> <a href="single-product.html" class="title-2">BMX BIKES</a> </h3>
-                                <p class="font-2">Start from <span class="thm-clr"> $399.00 </span> </p>    
+                                <p class="font-2">Цена от <span class="thm-clr"> $399.00 </span> </p>    
                             </div>
                         </div>
                     </div>
 
-                    <a href="category-regs.php" class="fancy-btn fancy-btn-small fsz-15">Посмотреть все</a>
+                    <a href="category-regs.php" class="fancy-btn fancy-btn-small fsz-15">Помотреть</a>
                 </div>           
             </section>
             <!-- / Product Slider -->
@@ -233,7 +233,7 @@
                 <div class="gst-column col-lg-6 col-md-6 col-sm-12 col-xs-12 gst-compare-women">
                     <div class="col-lg-7">
 
-                        <h3 class="price__">                                         
+                        <h3 class="Цена__">                                         
                             <span class="thin-font-3 fsz-40 thm-clr"> 6 000 р</span>
                         </h3>
 
@@ -270,16 +270,16 @@
                             <div class="col-md-3 col-sm-6 col-xs-12 isotope-item tab-1 tab-3 tab-5">
                                 <div class="portfolio-wrapper">
                                     <div class="portfolio-thumb">
-                                        <img src="https://kover-russia.ru/upload/resize_cache/iblock/625/650_2000_1/ztljxmrqbijcoviygqn5l6e0nug15ngv.jpg" alt="">
+                                        <img src="https://frankfurt.apollo.olxcdn.com/v1/files/xxlw1mgqrari-KZ/image" alt="">
                                         <div class="portfolio-content">                                            
                                             <div class="pop-up-icon">                 
-                                                <a class="center-link" href="#product-preview1" data-toggle="modal"><i class="fa fa-search"></i></a>
+                                            Цена от             <a class="center-link" href="#product-preview1" data-toggle="modal"><i class="fa fa-search"></i></a>
                                             </div>
                                         </div>
                                     </div>
                                     <div class="product-content">
                                         <h3> <a class="title-3 fsz-18" href="#">Ковер MODA 9807 ACIK GRI</a> </h3>
-                                        <p class="font-2">Start from <span class="thm-clr"> 8 000 р </span> </p>    
+                                        <p class="font-2">Цена от <span class="thm-clr"> 8 000 р </span> </p>    
                                     </div>
                                 </div>
                             </div>
@@ -295,7 +295,7 @@
                                     </div>
                                     <div class="product-content">
                                         <h3> <a class="title-3 fsz-18" href="#">BUTNITZ BICYCLE</a> </h3>
-                                        <p class="font-2">Start from <span class="thm-clr"> 10 000 р </span> </p>    
+                                        <p class="font-2">Цена от <span class="thm-clr"> 10 000 р </span> </p>    
                                     </div>
                                 </div>
                             </div>
@@ -311,14 +311,14 @@
                                     </div>
                                     <div class="product-content">
                                         <h3> <a class="title-3 fsz-18" href="#">BREEZER SQUALL 1.0</a> </h3>
-                                        <p class="font-2">Start from <span class="thm-clr"> 12 000 р  </span> </p>    
+                                        <p class="font-2">Цена от <span class="thm-clr"> 12 000 р  </span> </p>    
                                     </div>
                                 </div>
                             </div>
                             <div class="col-md-3 col-sm-6 col-xs-12 isotope-item tab-1 tab-3 tab-4">
                                 <div class="portfolio-wrapper">
                                     <div class="portfolio-thumb">
-                                        <img src="https://modernplace.ru/wp-content/uploads/2017/12/kovry-na-pol-20.jpg" alt="">
+                                        <img src="https://mebli-zakaz.kiev.ua/iww/imgs/1-25161-1.jpg" alt="">
                                         <div class="portfolio-content">                                            
                                             <div class="pop-up-icon">                 
                                                 <a class="center-link" href="#product-preview4" data-toggle="modal"><i class="fa fa-search"></i></a>
@@ -327,7 +327,7 @@
                                     </div>
                                     <div class="product-content">
                                         <h3> <a class="title-3 fsz-18" href="#">FUJIE TAHOE 1.5 27.5</a> </h3>
-                                        <p class="font-2">Start from <span class="thm-clr"> 13 000 р  </span> </p>    
+                                        <p class="font-2">Цена от <span class="thm-clr"> 13 000 р  </span> </p>    
                                     </div>
                                 </div>
                             </div>
@@ -343,7 +343,7 @@
                                     </div>
                                     <div class="product-content">
                                         <h3> <a class="title-3 fsz-18" href="#">GT SENSOR COMP 27.5</a> </h3>
-                                        <p class="font-2">Start from <span class="thm-clr"> 15 000 р  </span> </p>    
+                                        <p class="font-2">Цена от <span class="thm-clr"> 15 000 р  </span> </p>    
                                     </div>
                                 </div>
                             </div>
@@ -359,7 +359,7 @@
                                     </div>
                                     <div class="product-content">
                                         <h3> <a class="title-3 fsz-18" href="#">BUTNITZ BICYCLE</a> </h3>
-                                        <p class="font-2">Start from <span class="thm-clr"> 7 500 р </span> </p>    
+                                        <p class="font-2">Цена от <span class="thm-clr"> 7 500 р </span> </p>    
                                     </div>
                                 </div>
                             </div>
@@ -375,7 +375,7 @@
                                     </div>
                                     <div class="product-content">
                                         <h3> <a class="title-3 fsz-18" href="#">BREEZER SQUALL 1.0</a> </h3>
-                                        <p class="font-2">Start from <span class="thm-clr"> 9 500 р </span> </p>    
+                                        <p class="font-2">Цена от <span class="thm-clr"> 9 500 р </span> </p>    
                                     </div>
                                 </div>
                             </div>
@@ -391,7 +391,7 @@
                                     </div>
                                     <div class="product-content">
                                         <h3> <a class="title-3 fsz-18" href="#">FUJIE TAHOE 1.5 27.5</a> </h3>
-                                        <p class="font-2">Start from <span class="thm-clr"> 14 000 р  </span> </p>    
+                                        <p class="font-2">Цена от <span class="thm-clr"> 14 000 р  </span> </p>    
                                     </div>
                                 </div>
                             </div>
@@ -414,7 +414,7 @@
                                 <a href="#" class="add-to-cart cart-icn2"></a>
                                 <div class="brand funky-font-2 ">Cycling Shoes</div>
                                 <div class="name"><a href="#">Sidebike m065 pro</a></div>
-                                <div class="price font-3">$250.00</div>
+                                <div class="Цена font-3">$250.00</div>
                                 <div class="rating">                                                              
                                     <span class="star active"></span>
                                     <span class="star active"></span>
@@ -433,7 +433,7 @@
                                 <a href="#" class="add-to-cart cart-icn2"></a>
                                 <div class="brand funky-font-2 ">Cycling Shoes</div>
                                 <div class="name"><a href="#">Sidebike m065 pro</a></div>
-                                <div class="price font-3">$250.00</div>
+                                <div class="Цена font-3">$250.00</div>
                                 <div class="rating">                                                              
                                     <span class="star"></span>
                                     <span class="star"></span>
@@ -452,7 +452,7 @@
                                 <a href="#" class="add-to-cart cart-icn2"></a>
                                 <div class="brand funky-font-2 ">Cycling Shoes</div>
                                 <div class="name"><a href="#">Sidebike m065 pro</a></div>
-                                <div class="price font-3">$250.00</div>
+                                <div class="Цена font-3">$250.00</div>
                                 <div class="rating">                                                              
                                     <span class="star active"></span>
                                     <span class="star active"></span>
@@ -471,7 +471,7 @@
                                 <a href="#" class="add-to-cart cart-icn2"></a>
                                 <div class="brand funky-font-2 ">Cycling Shoes</div>
                                 <div class="name"><a href="#">Sidebike m065 pro</a></div>
-                                <div class="price font-3">$250.00</div>
+                                <div class="Цена font-3">$250.00</div>
                                 <div class="rating">                                                              
                                     <span class="star active"></span>
                                     <span class="star active"></span>
@@ -490,7 +490,7 @@
                                 <a href="#" class="add-to-cart cart-icn2"></a>
                                 <div class="brand funky-font-2 ">Cycling Shoes</div>
                                 <div class="name"><a href="#">Sidebike m065 pro</a></div>
-                                <div class="price font-3">$250.00</div>
+                                <div class="Цена font-3">$250.00</div>
                                 <div class="rating">                                                              
                                     <span class="star active"></span>
                                     <span class="star active"></span>
@@ -509,7 +509,7 @@
                                 <a href="#" class="add-to-cart cart-icn2"></a>
                                 <div class="brand funky-font-2 ">Cycling Shoes</div>
                                 <div class="name"><a href="#">Sidebike m065 pro</a></div>
-                                <div class="price font-3">$250.00</div>
+                                <div class="Цена font-3">$250.00</div>
                                 <div class="rating">                                                              
                                     <span class="star"></span>
                                     <span class="star"></span>
@@ -528,7 +528,7 @@
                                 <a href="#" class="add-to-cart cart-icn2"></a>
                                 <div class="brand funky-font-2">Cycling Shoes</div>
                                 <div class="name"><a href="#">Sidebike m065 pro</a></div>
-                                <div class="price font-3">$250.00</div>
+                                <div class="Цена font-3">$250.00</div>
                                 <div class="rating">                                                              
                                     <span class="star active"></span>
                                     <span class="star active"></span>
@@ -548,11 +548,11 @@
                 <div class="container theme-container">
                     <div class="row">
                         <div class="col-md-7 col-sm-12 col-xs-12">
-                            <h2>Нашли ваш <span class="thm-clr extbold-font-4">лююбимый ковер мечты ?</span>Зачем ждать</h2>
-                            <p class="gry-clr fsz-16">Позвоните по номеру телефона справа и осуществите заказ получив скидку 15 %!</p>
+                            <h2>Нашли ваш <span class="thm-clr extbold-font-4">лююбимый ковер мечты ?</span> Зачем ждать</h2>
+                            <p class="gry-clr fsz-16">Позвоните по номеру телефона и осуществите заказ получив скидку 15 %!</p>
                         </div>
 
-                        <div class="col-md-5 col-sm-12 col-xs-12 text-right gst-cta-buttons">
+                        <div class="col-md-5 col-sm-12 col-xs-12 text-left gst-cta-buttons">
                             <a target="https://vk.com/kovry_dorozhki_kovrolin_makeevka" href="https://vk.com/kovry_dorozhki_kovrolin_makeevka" class="fancy-btn-alt fancy-btn-big fsz-25">VKontakte</a>
                            
                          
@@ -573,30 +573,30 @@
                 <div class="container theme-container">
                     <div class="gst-column col-lg-12 no-padding text-center">
                         <div class="fancy-heading text-center wht-clr">
-                            <h3>They Says</h3>
+                            <h3>Отзывы наших клиентов</h3>
                             <h5 class="funky-font-2">Happy Clients</h5>
                         </div>
 
                         <div class="quotes-carousel">
                             <div class="they-say nav-2">
                                 <div class="item blklt-clr">                                   
-                                    <p><strong >Cycling is a healthy</strong>, fun and exciting way to travel. No matter what type of cycling you're into, we;ve got a bike for you. We stock one of the larget bicycle ranges everywhere.</p>
+                                    <p><strong >Отличный сервис! </strong>Ваш персонал - просто выше всех похвал.</p>
                                     <cite>
-                                        <strong  class="blklt-clr">JESSICA WILSON</strong> - France
+                                        <strong  class="blklt-clr">Лариса Фаритонова</strong> - Россия
                                     </cite>
                                 </div>
 
                                 <div class="item">                              
-                                    <p><strong>Cycling is a healthy</strong>, fun and exciting way to travel. No matter what type of cycling you're into, we;ve got a bike for you. We stock one of the larget bicycle ranges everywhere.</p>
+                                    <p><strong>Благодарю за отличную</strong> работу компании! Оформляла уже несколько заказов, всегда вежливое обслуживание, всё вовремя, аккуратно и чётко. Сегодня отдельное спасибо Анатолию и Валерию.</p>
                                     <cite>
-                                        <strong  class="blklt-clr">JESSICA WILSON</strong> - France
+                                        <strong  class="blklt-clr">Оксана Макалеева</strong> - Украина
                                     </cite>
                                 </div>
 
                                 <div class="item">                               
-                                    <p><strong>Cycling is a healthy</strong>, fun and exciting way to travel. No matter what type of cycling you're into, we;ve got a bike for you. We stock one of the larget bicycle ranges everywhere.</p>
+                                    <p><strong>Спасибо за отличный сервис.</strong> Отдельная благодарность вежливому и пунктуальному персоналу. Быстрая доставка, отлично выполненный заказ. Желаю компании процветания и благодарных клиентов!!!.</p>
                                     <cite>
-                                        <strong  class="blklt-clr">JESSICA WILSON</strong> - France
+                                        <strong  class="blklt-clr">Галина</strong> - Украина
                                     </cite>
                                 </div>
                             </div>
@@ -620,9 +620,9 @@
                             <div class="product">
                                 <div class="image"><a href="#"><img src="https://images.ua.prom.st/1892511481_w640_h640_kover-moretti-turin.jpg" alt="Product"></a></div>
                                 <div class="right">
-                                    <p class="funky-font-2">Mountain bike</p>
+                                    <p class="funky-font-2"></p>
                                     <div class="name"><a href="#">GT SENSOR COMP 27.5</a></div>
-                                    <div class="price font-2">Price: <span class="price-new">$299.00</span> <span class="price-old">$599.00</span></div>
+                                    <div class="Цена font-2">Цена: <span class="Цена-new">12 000 р.</span> <span class="Цена-old"></span></div>
                                 </div>
                             </div>
                         </div>
@@ -631,9 +631,9 @@
                             <div class="product">
                                 <div class="image"><a href="#"><img src="https://images.ua.prom.st/1892515308_w640_h640_kover-moretti-turin.jpg" alt="Product"></a></div>
                                 <div class="right">
-                                    <p class="funky-font-2">Mountain bike</p>
+                                    <p class="funky-font-2"></p>
                                     <div class="name"><a href="#">BREEZER SQUALL 1.0</a></div>
-                                    <div class="price font-2">Price: <span class="price-new">$299.00</span> <span class="price-old">$599.00</span></div>
+                                    <div class="Цена font-2">Цена: <span class="Цена-new">15 000 р.</span> <span class="Цена-old"></span></div>
                                 </div>
                             </div>
                         </div>
@@ -642,9 +642,9 @@
                             <div class="product">
                                 <div class="image"><a href="#"><img src="https://cdn2.riastatic.com/photosnew/general/adv_photos/home-textil-kover-karat-gold-323-123-1-60x2-25-m-ovalnyy-bezhevyy__112212225m.jpg" alt="Product"></a></div>
                                 <div class="right">
-                                    <p class="funky-font-2">Mountain bike</p>
+                                    <p class="funky-font-2"></p>
                                     <div class="name"><a href="#">GT SENSOR COMP 27.5</a></div>
-                                    <div class="price font-2">Price: <span class="price-new">$299.00</span> <span class="price-old">$599.00</span></div>
+                                    <div class="Цена font-2">Цена: <span class="Цена-new">16 000 р.</span> <span class="Цена-old"></span></div>
                                 </div>
                             </div>
                         </div>
@@ -653,9 +653,9 @@
                             <div class="product">
                                 <div class="image"><a href="#"><img src="https://images.ua.prom.st/761498510_kover-na-pol.jpg" alt="Product"></a></div>
                                 <div class="right">
-                                    <p class="funky-font-2">Mountain bike</p>
+                                    <p class="funky-font-2"></p>
                                     <div class="name"><a href="#">BREEZER SQUALL 1.0</a></div>
-                                    <div class="price font-2">Price: <span class="price-new">$299.00</span> <span class="price-old">$599.00</span></div>
+                                    <div class="Цена font-2">Цена: <span class="Цена-new">11 000 р.</span> <span class="Цена-old"></span></div>
                                 </div>
                             </div>
                         </div>
@@ -664,20 +664,20 @@
                             <div class="product">
                                 <div class="image"><a href="#"><img src="https://kasta.ua/imgw/loc/414x576/uploads/product_image/2020/10/212/a2c1e56fb6b042c18ffb91c9f341d491.jpg" alt="Product"></a></div>
                                 <div class="right">
-                                    <p class="funky-font-2">Mountain bike</p>
+                                    <p class="funky-font-2"></p>
                                     <div class="name"><a href="#">GT SENSOR COMP 27.5</a></div>
-                                    <div class="price font-2">Price: <span class="price-new">$299.00</span> <span class="price-old">$599.00</span></div>
+                                    <div class="Цена font-2">Цена: <span class="Цена-new">8 000 р.</span> <span class="Цена-old"></span></div>
                                 </div>
                             </div>
                         </div>
 
                         <div class="col-sm-6 col-lg-4">
                             <div class="product">
-                                <div class="image"><a href="#"><img src="https://marqis.com.ua/upload/resize_cache/iblock/fbb/1200_1200_1/fbb1bcc69e2192ef3d5f3d4012d79642.jpg" alt="Product"></a></div>
+                                <div class="image"><a href="#"><img src="https://st2.depositphotos.com/1001370/6260/i/950/depositphotos_62608847-stock-photo-colorful-carpets-in-the-store.jpg" alt="Product"></a></div>
                                 <div class="right">
-                                    <p class="funky-font-2">Mountain bike</p>
+                                    <p class="funky-font-2"></p>
                                     <div class="name"><a href="#">GT SENSOR COMP 27.5</a></div>
-                                    <div class="price font-2">Price: <span class="price-new">$299.00</span> <span class="price-old">$599.00</span></div>
+                                    <div class="Цена font-2">Цена: <span class="Цена-new">20 000 р.</span> <span class="Цена-old"></span></div>
                                 </div>
                             </div>
                         </div>
@@ -757,7 +757,7 @@
                                 <div class="product_title_wrapper">
                                     <div itemprop="name" class="product_title entry-title">
                                         Flusas Denim <span class="thm-clr">Dress</span>
-                                        <p class="font-3 fsz-18 no-mrgn price"> <b class="amount blk-clr">$175.00</b> <del>$299.00</del> </p>       
+                                        <p class="font-3 fsz-18 no-mrgn Цена"> <b class="amount blk-clr">$175.00</b> <del>12 000 р.</del> </p>       
                                     </div>
                                 </div>
 
@@ -780,7 +780,7 @@
                                                 <label class="fsz-15 title-3"> <b> CHOOSE COLOR </b> </label>
                                                 <div class="search-selectpicker selectpicker-wrapper">
                                                     <select
-                                                        class="selectpicker input-price" data-live-search="true" data-width="100%"
+                                                        class="selectpicker input-Цена" data-live-search="true" data-width="100%"
                                                         data-toggle="tooltip" title="White">
                                                         <option>Pink</option>
                                                         <option>Blue</option>
@@ -794,7 +794,7 @@
                                                 <label class="fsz-15 title-3"> <b> CHOOSE SIZE </b> </label>
                                                 <div class="search-selectpicker selectpicker-wrapper">
                                                     <select
-                                                        class="selectpicker input-price" data-live-search="true" data-width="100%"
+                                                        class="selectpicker input-Цена" data-live-search="true" data-width="100%"
                                                         data-toggle="tooltip" title="Large">
                                                         <option>Small</option>
                                                         <option>Medium</option>
@@ -808,7 +808,7 @@
                                                 <label class="fsz-15 title-3"> <b> QUANTITY </b> </label>
                                                 <div class="search-selectpicker selectpicker-wrapper">
                                                     <select
-                                                        class="selectpicker input-price" data-live-search="true" data-width="100%"
+                                                        class="selectpicker input-Цена" data-live-search="true" data-width="100%"
                                                         data-toggle="tooltip" title="2 Pcs">
                                                         <option>1 Pcs</option>
                                                         <option>2 Pcs</option>
@@ -869,7 +869,7 @@
                         <div class="product_title_wrapper">
                             <div itemprop="name" class="product_title entry-title">
                                 Flusas Denim <span class="thm-clr">Dress</span>
-                                <p class="font-3 fsz-18 no-mrgn price"> <b class="amount blk-clr">$175.00</b> <del>$299.00</del> </p>       
+                                <p class="font-3 fsz-18 no-mrgn Цена"> <b class="amount blk-clr">$175.00</b> <del>12 000 р.</del> </p>       
                             </div>
                         </div>
 
@@ -889,7 +889,7 @@
                                         <label class="fsz-15 title-3"> <b> CHOOSE COLOR </b> </label>
                                         <div class="search-selectpicker selectpicker-wrapper">
                                             <select
-                                                class="selectpicker input-price" data-live-search="true" data-width="100%"
+                                                class="selectpicker input-Цена" data-live-search="true" data-width="100%"
                                                 data-toggle="tooltip" title="White">
                                                 <option>Pink</option>
                                                 <option>Blue</option>
@@ -903,7 +903,7 @@
                                         <label class="fsz-15 title-3"> <b> CHOOSE SIZE </b> </label>
                                         <div class="search-selectpicker selectpicker-wrapper">
                                             <select
-                                                class="selectpicker input-price" data-live-search="true" data-width="100%"
+                                                class="selectpicker input-Цена" data-live-search="true" data-width="100%"
                                                 data-toggle="tooltip" title="Large">
                                                 <option>Small</option>
                                                 <option>Medium</option>
@@ -917,7 +917,7 @@
                                         <label class="fsz-15 title-3"> <b> QUANTITY </b> </label>
                                         <div class="search-selectpicker selectpicker-wrapper">
                                             <select
-                                                class="selectpicker input-price" data-live-search="true" data-width="100%"
+                                                class="selectpicker input-Цена" data-live-search="true" data-width="100%"
                                                 data-toggle="tooltip" title="2 Pcs">
                                                 <option>1 Pcs</option>
                                                 <option>2 Pcs</option>
@@ -978,7 +978,7 @@
                         <div class="product_title_wrapper">
                             <div itemprop="name" class="product_title entry-title">
                                 Flusas Denim <span class="thm-clr">Dress</span>
-                                <p class="font-3 fsz-18 no-mrgn price"> <b class="amount blk-clr">$175.00</b> <del>$299.00</del> </p>       
+                                <p class="font-3 fsz-18 no-mrgn Цена"> <b class="amount blk-clr">$175.00</b> <del>12 000 р.</del> </p>       
                             </div>
                         </div>
 
@@ -998,7 +998,7 @@
                                         <label class="fsz-15 title-3"> <b> CHOOSE COLOR </b> </label>
                                         <div class="search-selectpicker selectpicker-wrapper">
                                             <select
-                                                class="selectpicker input-price" data-live-search="true" data-width="100%"
+                                                class="selectpicker input-Цена" data-live-search="true" data-width="100%"
                                                 data-toggle="tooltip" title="White">
                                                 <option>Pink</option>
                                                 <option>Blue</option>
@@ -1012,7 +1012,7 @@
                                         <label class="fsz-15 title-3"> <b> CHOOSE SIZE </b> </label>
                                         <div class="search-selectpicker selectpicker-wrapper">
                                             <select
-                                                class="selectpicker input-price" data-live-search="true" data-width="100%"
+                                                class="selectpicker input-Цена" data-live-search="true" data-width="100%"
                                                 data-toggle="tooltip" title="Large">
                                                 <option>Small</option>
                                                 <option>Medium</option>
@@ -1026,7 +1026,7 @@
                                         <label class="fsz-15 title-3"> <b> QUANTITY </b> </label>
                                         <div class="search-selectpicker selectpicker-wrapper">
                                             <select
-                                                class="selectpicker input-price" data-live-search="true" data-width="100%"
+                                                class="selectpicker input-Цена" data-live-search="true" data-width="100%"
                                                 data-toggle="tooltip" title="2 Pcs">
                                                 <option>1 Pcs</option>
                                                 <option>2 Pcs</option>
@@ -1088,7 +1088,7 @@
                         <div class="product_title_wrapper">
                             <div itemprop="name" class="product_title entry-title">
                                 Flusas Denim <span class="thm-clr">Dress</span>
-                                <p class="font-3 fsz-18 no-mrgn price"> <b class="amount blk-clr">$175.00</b> <del>$299.00</del> </p>       
+                                <p class="font-3 fsz-18 no-mrgn Цена"> <b class="amount blk-clr">$175.00</b> <del>12 000 р.</del> </p>       
                             </div>
                         </div>
 
@@ -1108,7 +1108,7 @@
                                         <label class="fsz-15 title-3"> <b> CHOOSE COLOR </b> </label>
                                         <div class="search-selectpicker selectpicker-wrapper">
                                             <select
-                                                class="selectpicker input-price" data-live-search="true" data-width="100%"
+                                                class="selectpicker input-Цена" data-live-search="true" data-width="100%"
                                                 data-toggle="tooltip" title="White">
                                                 <option>Pink</option>
                                                 <option>Blue</option>
@@ -1122,7 +1122,7 @@
                                         <label class="fsz-15 title-3"> <b> CHOOSE SIZE </b> </label>
                                         <div class="search-selectpicker selectpicker-wrapper">
                                             <select
-                                                class="selectpicker input-price" data-live-search="true" data-width="100%"
+                                                class="selectpicker input-Цена" data-live-search="true" data-width="100%"
                                                 data-toggle="tooltip" title="Large">
                                                 <option>Small</option>
                                                 <option>Medium</option>
@@ -1136,7 +1136,7 @@
                                         <label class="fsz-15 title-3"> <b> QUANTITY </b> </label>
                                         <div class="search-selectpicker selectpicker-wrapper">
                                             <select
-                                                class="selectpicker input-price" data-live-search="true" data-width="100%"
+                                                class="selectpicker input-Цена" data-live-search="true" data-width="100%"
                                                 data-toggle="tooltip" title="2 Pcs">
                                                 <option>1 Pcs</option>
                                                 <option>2 Pcs</option>
@@ -1198,7 +1198,7 @@
                         <div class="product_title_wrapper">
                             <div itemprop="name" class="product_title entry-title">
                                 Flusas Denim <span class="thm-clr">Dress</span>
-                                <p class="font-3 fsz-18 no-mrgn price"> <b class="amount blk-clr">$175.00</b> <del>$299.00</del> </p>       
+                                <p class="font-3 fsz-18 no-mrgn Цена"> <b class="amount blk-clr">$175.00</b> <del>12 000 р.</del> </p>       
                             </div>
                         </div>
 
@@ -1218,7 +1218,7 @@
                                         <label class="fsz-15 title-3"> <b> CHOOSE COLOR </b> </label>
                                         <div class="search-selectpicker selectpicker-wrapper">
                                             <select
-                                                class="selectpicker input-price" data-live-search="true" data-width="100%"
+                                                class="selectpicker input-Цена" data-live-search="true" data-width="100%"
                                                 data-toggle="tooltip" title="White">
                                                 <option>Pink</option>
                                                 <option>Blue</option>
@@ -1232,7 +1232,7 @@
                                         <label class="fsz-15 title-3"> <b> CHOOSE SIZE </b> </label>
                                         <div class="search-selectpicker selectpicker-wrapper">
                                             <select
-                                                class="selectpicker input-price" data-live-search="true" data-width="100%"
+                                                class="selectpicker input-Цена" data-live-search="true" data-width="100%"
                                                 data-toggle="tooltip" title="Large">
                                                 <option>Small</option>
                                                 <option>Medium</option>
@@ -1246,7 +1246,7 @@
                                         <label class="fsz-15 title-3"> <b> QUANTITY </b> </label>
                                         <div class="search-selectpicker selectpicker-wrapper">
                                             <select
-                                                class="selectpicker input-price" data-live-search="true" data-width="100%"
+                                                class="selectpicker input-Цена" data-live-search="true" data-width="100%"
                                                 data-toggle="tooltip" title="2 Pcs">
                                                 <option>1 Pcs</option>
                                                 <option>2 Pcs</option>
@@ -1306,7 +1306,7 @@
                         <div class="product_title_wrapper">
                             <div itemprop="name" class="product_title entry-title">
                                 Flusas Denim <span class="thm-clr">Dress</span>
-                                <p class="font-3 fsz-18 no-mrgn price"> <b class="amount blk-clr">$175.00</b> <del>$299.00</del> </p>       
+                                <p class="font-3 fsz-18 no-mrgn Цена"> <b class="amount blk-clr">$175.00</b> <del>12 000 р.</del> </p>       
                             </div>
                         </div>
 
@@ -1326,7 +1326,7 @@
                                         <label class="fsz-15 title-3"> <b> CHOOSE COLOR </b> </label>
                                         <div class="search-selectpicker selectpicker-wrapper">
                                             <select
-                                                class="selectpicker input-price" data-live-search="true" data-width="100%"
+                                                class="selectpicker input-Цена" data-live-search="true" data-width="100%"
                                                 data-toggle="tooltip" title="White">
                                                 <option>Pink</option>
                                                 <option>Blue</option>
@@ -1340,7 +1340,7 @@
                                         <label class="fsz-15 title-3"> <b> CHOOSE SIZE </b> </label>
                                         <div class="search-selectpicker selectpicker-wrapper">
                                             <select
-                                                class="selectpicker input-price" data-live-search="true" data-width="100%"
+                                                class="selectpicker input-Цена" data-live-search="true" data-width="100%"
                                                 data-toggle="tooltip" title="Large">
                                                 <option>Small</option>
                                                 <option>Medium</option>
@@ -1354,7 +1354,7 @@
                                         <label class="fsz-15 title-3"> <b> QUANTITY </b> </label>
                                         <div class="search-selectpicker selectpicker-wrapper">
                                             <select
-                                                class="selectpicker input-price" data-live-search="true" data-width="100%"
+                                                class="selectpicker input-Цена" data-live-search="true" data-width="100%"
                                                 data-toggle="tooltip" title="2 Pcs">
                                                 <option>1 Pcs</option>
                                                 <option>2 Pcs</option>
@@ -1416,7 +1416,7 @@
                         <div class="product_title_wrapper">
                             <div itemprop="name" class="product_title entry-title">
                                 Flusas Denim <span class="thm-clr">Dress</span>
-                                <p class="font-3 fsz-18 no-mrgn price"> <b class="amount blk-clr">$175.00</b> <del>$299.00</del> </p>       
+                                <p class="font-3 fsz-18 no-mrgn Цена"> <b class="amount blk-clr">$175.00</b> <del>12 000 р.</del> </p>       
                             </div>
                         </div>
 
@@ -1436,7 +1436,7 @@
                                         <label class="fsz-15 title-3"> <b> CHOOSE COLOR </b> </label>
                                         <div class="search-selectpicker selectpicker-wrapper">
                                             <select
-                                                class="selectpicker input-price" data-live-search="true" data-width="100%"
+                                                class="selectpicker input-Цена" data-live-search="true" data-width="100%"
                                                 data-toggle="tooltip" title="White">
                                                 <option>Pink</option>
                                                 <option>Blue</option>
@@ -1450,7 +1450,7 @@
                                         <label class="fsz-15 title-3"> <b> CHOOSE SIZE </b> </label>
                                         <div class="search-selectpicker selectpicker-wrapper">
                                             <select
-                                                class="selectpicker input-price" data-live-search="true" data-width="100%"
+                                                class="selectpicker input-Цена" data-live-search="true" data-width="100%"
                                                 data-toggle="tooltip" title="Large">
                                                 <option>Small</option>
                                                 <option>Medium</option>
@@ -1464,7 +1464,7 @@
                                         <label class="fsz-15 title-3"> <b> QUANTITY </b> </label>
                                         <div class="search-selectpicker selectpicker-wrapper">
                                             <select
-                                                class="selectpicker input-price" data-live-search="true" data-width="100%"
+                                                class="selectpicker input-Цена" data-live-search="true" data-width="100%"
                                                 data-toggle="tooltip" title="2 Pcs">
                                                 <option>1 Pcs</option>
                                                 <option>2 Pcs</option>
@@ -1526,7 +1526,7 @@
                         <div class="product_title_wrapper">
                             <div itemprop="name" class="product_title entry-title">
                                 Flusas Denim <span class="thm-clr">Dress</span>
-                                <p class="font-3 fsz-18 no-mrgn price"> <b class="amount blk-clr">$175.00</b> <del>$299.00</del> </p>       
+                                <p class="font-3 fsz-18 no-mrgn Цена"> <b class="amount blk-clr">$175.00</b> <del>12 000 р.</del> </p>       
                             </div>
                         </div>
 
@@ -1546,7 +1546,7 @@
                                         <label class="fsz-15 title-3"> <b> CHOOSE COLOR </b> </label>
                                         <div class="search-selectpicker selectpicker-wrapper">
                                             <select
-                                                class="selectpicker input-price" data-live-search="true" data-width="100%"
+                                                class="selectpicker input-Цена" data-live-search="true" data-width="100%"
                                                 data-toggle="tooltip" title="White">
                                                 <option>Pink</option>
                                                 <option>Blue</option>
@@ -1560,7 +1560,7 @@
                                         <label class="fsz-15 title-3"> <b> CHOOSE SIZE </b> </label>
                                         <div class="search-selectpicker selectpicker-wrapper">
                                             <select
-                                                class="selectpicker input-price" data-live-search="true" data-width="100%"
+                                                class="selectpicker input-Цена" data-live-search="true" data-width="100%"
                                                 data-toggle="tooltip" title="Large">
                                                 <option>Small</option>
                                                 <option>Medium</option>
@@ -1574,7 +1574,7 @@
                                         <label class="fsz-15 title-3"> <b> QUANTITY </b> </label>
                                         <div class="search-selectpicker selectpicker-wrapper">
                                             <select
-                                                class="selectpicker input-price" data-live-search="true" data-width="100%"
+                                                class="selectpicker input-Цена" data-live-search="true" data-width="100%"
                                                 data-toggle="tooltip" title="2 Pcs">
                                                 <option>1 Pcs</option>
                                                 <option>2 Pcs</option>

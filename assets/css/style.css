@@ -5000,6 +5000,10 @@ a.compare-add-to-cart:hover, a.compare-add-to-cart:focus{
 }
 .gst-cta-buttons {padding-top: 10px}
 .gst-cta-buttons a {margin-left: 20px}
+@media (max-width: 576px) {
+    .gst-cta-buttons a {margin-left: 5px}
+}
+
 .gst-cta-buttons a:first-child {margin-left: 0}
 
 
