@@ -97,7 +97,7 @@
                                     <h2> <span class="sec-title fsz-30 wht-clr"> Шерстянной ковер </span> 
                                         <br>
                                         <span class="light-font-3 fsz-33 thm-clr">20 000 р </span></h2>
-                                    <a href="#" class="fancy-btn fancy-btn-small">Помотреть</a>
+                                    <a href="/category-regs.php" class="fancy-btn fancy-btn-small">Помотреть</a>
                                 </div>
                             </div>
                         </div>
@@ -114,7 +114,7 @@
                                     <h2> <span class="sec-title fsz-40 wht-clr"> shaggy </span> 
                                         <br>
                                         <span class="light-font-3 fsz-33 thm-clr">12 000 р </span> </h2>                                  
-                                    <a href="#" class="fancy-btn fancy-btn-small">Помотреть</a>
+                                    <a href="/category-regs.php" class="fancy-btn fancy-btn-small">Помотреть</a>
                                 </div>
                             </div>
                         </div>
@@ -130,7 +130,7 @@
                                     <h2> <span class="sec-title fsz-40 wht-clr">Велюр </span> 
                                         <br>
                                         <span class="light-font-3 fsz-33 thm-clr">10 000 р </span> </h2>                                    
-                                    <a href="#" class="fancy-btn fancy-btn-small">Помотреть</a>
+                                    <a href="/category-regs.php" class="fancy-btn fancy-btn-small">Помотреть</a>
                                 </div>
                             </div>
                         </div>
@@ -163,7 +163,7 @@
                     <?php } ?>  
                     </div>
 
-                    <a href="category-regs.php" class="fancy-btn fancy-btn-small fsz-15">Помотреть</a>
+                    <a href="/category-regs.php" class="fancy-btn fancy-btn-small fsz-15">Помотреть</a>
                 </div>           
             </section>
             <!-- / Product Slider -->
@@ -214,7 +214,7 @@
                                         <img src="https://frankfurt.apollo.olxcdn.com/v1/files/xxlw1mgqrari-KZ/image" alt="">
                                         <div class="portfolio-content">                                            
                                             <div class="pop-up-icon">                 
-                                            Цена от             <a class="center-link" href="#product-preview1" data-toggle="modal"><i class="fa fa-search"></i></a>
+                                            <a class="center-link" href="#product-preview1" data-toggle="modal"><i class="fa fa-search"></i></a>
                                             </div>
                                         </div>
                                     </div>
@@ -348,26 +348,20 @@
                     <h3><span class="thm-clr">предлагаемые</span> продукты</h3>
                 </div>
                 <div class="featured-products diblock">
-                    <?php for ($i = 1; $i <= 33; $i++) { ?>
-                        <div class="col-sm-6 col-lg-3 no-lr-padding">
-                            <div class="image"><img src="assets/img/offer-products/<?php echo $i.'.jpg'; ?>" alt="Product"></div>
-                            <div class="description">
-                                <div class="text">
-                                    <a href="#" class="add-to-cart cart-icn2"></a>
-                                    <div class="brand funky-font-2 ">Cycling Shoes</div>
-                                    <div class="name"><a href="#">Sidebike m065 pro</a></div>
-                                    <div class="Цена font-3">$250.00</div>
-                                    <div class="rating">                                                              
-                                        <span class="star active"></span>
-                                        <span class="star active"></span>
-                                        <span class="star active"></span>                                           
-                                        <span class="star"></span>
-                                        <span class="star"></span>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    <?php } ?>
+
+                    <?php include ('offer-cards.php'); ?>
+
+                    <div class="content"></div>
+                   
+                    <div class="col-lg-12 padding text-center mb-3 mt-3 load-more_block">
+                        <a id="load-more">
+                            <span>Load More</span>
+                            <i class="fa fa-refresh" aria-hidden="true"></i>
+                        </a>
+                    </div>
+
+              
+
                 </div>
             </section>
             <!-- / Featured Products -->

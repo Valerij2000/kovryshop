@@ -20,6 +20,16 @@
   background-image: url(https://kayoom.com.ua/content/images/8/1000x667l80nn0/97880696304222.jpeg);
 }
 
+.load-more_block {
+  padding: 25px;
+}
+
+#load-more {
+  cursor: pointer;
+  font-size: 20px;
+  text-transform: uppercase;
+}
+
 .header__title {
   margin-bottom: 120px;
   font-size: 7em;
