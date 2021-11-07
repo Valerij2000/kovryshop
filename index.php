@@ -150,66 +150,17 @@
 
                     <!-- Portfolio items -->
                     <div class="products-slider nav-2">
+                    <?php for ($i = 1; $i <= 20; $i++) { ?>
                         <div class="product">
                             <div class="product-media">
-                                <img src="https://frankfurt.apollo.olxcdn.com/v1/files/lmniz3tmetrt1-KZ/image" alt="" />
+                                <img src="assets/img/slider-main/<?php echo $i.'.jpg'; ?>" alt="" />
                             </div>
                             <div class="product-content">
-                                <h3> <a href="single-product.html" class="title-2">Ковер Astana</a> </h3>
-                                <p class="font-2">Размер 2*3</p>    
-                                <p class="font-2">От<span class="thm-clr"> 18 000 р </span> </p>    
+                                <p class="font-2">Цена от <span class="thm-clr"><?php echo 5 + mt_rand(5, 15); ?>000р.
+                            </span> </p>    
                             </div>
                         </div>
-
-                        <div class="product">
-                            <div class="product-media">
-                                <img src="https://images.ua.prom.st/1091667745_w640_h640_krasivye-kovry-na.jpg" alt="" />                                                  
-                            </div>
-                            <div class="product-content">
-                                <h3> <a href="single-product.html" class="title-2"> S </a> </h3>
-                                <p class="font-2">Цена от <span class="thm-clr">  </span> </p>    
-                            </div>
-                        </div>
-
-                        <div class="product">
-                            <div class="product-media">
-                                <img src="https://modernplace.ru/wp-content/uploads/2017/12/kovry-na-pol-01.jpg" alt="" />
-                            </div>
-                            <div class="product-content">
-                                <h3> <a href="single-product.html" class="title-2">BMX BIKES</a> </h3>
-                                <p class="font-2">Цена от <span class="thm-clr"> $399.00 </span> </p>    
-                            </div>
-                        </div>
-
-                        <div class="product">
-                            <div class="product-media">
-                                <img src="https://shkolapola.club/wp-content/uploads/pokrytie-sozdast-uyut-v-lyubom-pomeshhenii.jpg" alt="" />                                                 
-                            </div>
-                            <div class="product-content">
-                                <h3> <a href="single-product.html" class="title-2">ROAD BIKES</a> </h3>
-                                <p class="font-2">Цена от <span class="thm-clr">12 000 р. </span> </p>    
-                            </div>
-                        </div>
-
-                        <div class="product">
-                            <div class="product-media">
-                                <img src="https://www.star-carpet.ru/images/kak-vybrat-kover-v-gostinuyu.jpg" alt="" />                                                  
-                            </div>
-                            <div class="product-content">
-                                <h3> <a href="single-product.html" class="title-2"> S </a> </h3>
-                                <p class="font-2">Цена от <span class="thm-clr">  </span> </p>    
-                            </div>
-                        </div>
-
-                        <div class="product">
-                            <div class="product-media">
-                                <img src="http://dekorin.me/wp-content/uploads/2016/11/kover-v-gostinuu-na-pol-cherno-beliy.jpg" alt="" />
-                            </div>
-                            <div class="product-content">
-                                <h3> <a href="single-product.html" class="title-2">BMX BIKES</a> </h3>
-                                <p class="font-2">Цена от <span class="thm-clr"> $399.00 </span> </p>    
-                            </div>
-                        </div>
+                    <?php } ?>  
                     </div>
 
                     <a href="category-regs.php" class="fancy-btn fancy-btn-small fsz-15">Помотреть</a>
@@ -223,22 +174,12 @@
                 <div class="gst-column col-lg-6 col-md-6 col-sm-12 col-xs-12 gst-compare-men">
                     <div class="col-lg-6 right">
 
-                        <h3>                                         
-                            <span class="thin-font-3 fsz-40 thm-clr">12 000 р </span>
-                        </h3>
-
                     </div>
                 </div>
 
                 <div class="gst-column col-lg-6 col-md-6 col-sm-12 col-xs-12 gst-compare-women">
                     <div class="col-lg-7">
-
-                        <h3 class="Цена__">                                         
-                            <span class="thin-font-3 fsz-40 thm-clr"> 6 000 р</span>
-                        </h3>
-
-
-                    </div>
+                    </div>  
                 </div>
 
                 <div class="descount bold-font-2"> <div class="rel-div"> <p> Скидки до 17% </p> </div> </div>
@@ -407,138 +348,26 @@
                     <h3><span class="thm-clr">предлагаемые</span> продукты</h3>
                 </div>
                 <div class="featured-products diblock">
-                    <div class="col-sm-6 col-lg-3 no-lr-padding">
-                        <div class="image"><img src="https://www.dhresource.com/0x0/f2/albu/g10/M00/D1/9B/rBVaVl3kvgKAM2DAAAHZEdfgkDo791.jpg/grey-carpet-tie-dyeing-plush-soft-carpets.jpg" alt="Product"></div>
-                        <div class="description">
-                            <div class="text">
-                                <a href="#" class="add-to-cart cart-icn2"></a>
-                                <div class="brand funky-font-2 ">Cycling Shoes</div>
-                                <div class="name"><a href="#">Sidebike m065 pro</a></div>
-                                <div class="Цена font-3">$250.00</div>
-                                <div class="rating">                                                              
-                                    <span class="star active"></span>
-                                    <span class="star active"></span>
-                                    <span class="star active"></span>                                           
-                                    <span class="star"></span>
-                                    <span class="star"></span>
+                    <?php for ($i = 1; $i <= 33; $i++) { ?>
+                        <div class="col-sm-6 col-lg-3 no-lr-padding">
+                            <div class="image"><img src="assets/img/offer-products/<?php echo $i.'.jpg'; ?>" alt="Product"></div>
+                            <div class="description">
+                                <div class="text">
+                                    <a href="#" class="add-to-cart cart-icn2"></a>
+                                    <div class="brand funky-font-2 ">Cycling Shoes</div>
+                                    <div class="name"><a href="#">Sidebike m065 pro</a></div>
+                                    <div class="Цена font-3">$250.00</div>
+                                    <div class="rating">                                                              
+                                        <span class="star active"></span>
+                                        <span class="star active"></span>
+                                        <span class="star active"></span>                                           
+                                        <span class="star"></span>
+                                        <span class="star"></span>
+                                    </div>
                                 </div>
                             </div>
                         </div>
-                    </div>
-
-                    <div class="col-sm-6 col-lg-3 no-lr-padding">
-                        <div class="image"><img src="https://images.ua.prom.st/2231812992_w700_h500_sovremennyj-kover-v.jpg" alt="Product"></div>
-                        <div class="description">
-                            <div class="text">
-                                <a href="#" class="add-to-cart cart-icn2"></a>
-                                <div class="brand funky-font-2 ">Cycling Shoes</div>
-                                <div class="name"><a href="#">Sidebike m065 pro</a></div>
-                                <div class="Цена font-3">$250.00</div>
-                                <div class="rating">                                                              
-                                    <span class="star"></span>
-                                    <span class="star"></span>
-                                    <span class="star"></span>                                           
-                                    <span class="star"></span>
-                                    <span class="star"></span>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-sm-6 col-lg-3 no-lr-padding">
-                        <div class="image"><img src="https://www.kovrovik.com.ua/images/stories/virtuemart/product/24031-234-2.jpg" alt="Product"></div>
-                        <div class="description">
-                            <div class="text">
-                                <a href="#" class="add-to-cart cart-icn2"></a>
-                                <div class="brand funky-font-2 ">Cycling Shoes</div>
-                                <div class="name"><a href="#">Sidebike m065 pro</a></div>
-                                <div class="Цена font-3">$250.00</div>
-                                <div class="rating">                                                              
-                                    <span class="star active"></span>
-                                    <span class="star active"></span>
-                                    <span class="star active"></span>                                           
-                                    <span class="star"></span>
-                                    <span class="star"></span>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-sm-6 col-lg-3 no-lr-padding">
-                        <div class="image"><img src="https://images.ua.prom.st/1328277399_vorsistyj-kover-ryzhe.jpg" alt="Product"></div>
-                        <div class="description">
-                            <div class="text">
-                                <a href="#" class="add-to-cart cart-icn2"></a>
-                                <div class="brand funky-font-2 ">Cycling Shoes</div>
-                                <div class="name"><a href="#">Sidebike m065 pro</a></div>
-                                <div class="Цена font-3">$250.00</div>
-                                <div class="rating">                                                              
-                                    <span class="star active"></span>
-                                    <span class="star active"></span>
-                                    <span class="star"></span>                                           
-                                    <span class="star"></span>
-                                    <span class="star"></span>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-sm-6 col-lg-3 no-lr-padding">
-                        <div class="image"><img src="https://amikovry.ru/upload/medialibrary/5f5/barolo_rb207_r46_int.jpg" alt="Product"></div>
-                        <div class="description">
-                            <div class="text">
-                                <a href="#" class="add-to-cart cart-icn2"></a>
-                                <div class="brand funky-font-2 ">Cycling Shoes</div>
-                                <div class="name"><a href="#">Sidebike m065 pro</a></div>
-                                <div class="Цена font-3">$250.00</div>
-                                <div class="rating">                                                              
-                                    <span class="star active"></span>
-                                    <span class="star active"></span>
-                                    <span class="star active"></span>                                           
-                                    <span class="star half"></span>
-                                    <span class="star"></span>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-sm-6 col-lg-3 no-lr-padding">
-                        <div class="image"><img src="https://frankfurt.apollo.olxcdn.com/v1/files/ybksyjmnjjlp1-KZ/image;s=1000x700" alt="Product"></div>
-                        <div class="description">
-                            <div class="text">
-                                <a href="#" class="add-to-cart cart-icn2"></a>
-                                <div class="brand funky-font-2 ">Cycling Shoes</div>
-                                <div class="name"><a href="#">Sidebike m065 pro</a></div>
-                                <div class="Цена font-3">$250.00</div>
-                                <div class="rating">                                                              
-                                    <span class="star"></span>
-                                    <span class="star"></span>
-                                    <span class="star"></span>                                           
-                                    <span class="star"></span>
-                                    <span class="star"></span>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-sm-6 col-lg-3 no-lr-padding">
-                        <div class="image"><img src="https://images.ua.prom.st/2605223471_w600_h600_2605223471.jpg" alt="Product"></div>
-                        <div class="description">
-                            <div class="text">
-                                <a href="#" class="add-to-cart cart-icn2"></a>
-                                <div class="brand funky-font-2">Cycling Shoes</div>
-                                <div class="name"><a href="#">Sidebike m065 pro</a></div>
-                                <div class="Цена font-3">$250.00</div>
-                                <div class="rating">                                                              
-                                    <span class="star active"></span>
-                                    <span class="star active"></span>
-                                    <span class="star active"></span>                                           
-                                    <span class="star half"></span>
-                                    <span class="star"></span>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
+                    <?php } ?>
                 </div>
             </section>
             <!-- / Featured Products -->
