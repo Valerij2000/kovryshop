@@ -113,8 +113,8 @@
                                                         </div>
                                                         <div class="pop-up-icon">                 
                                                             <a  data-toggle="modal" href="#product-preview" class="center-link"><i class="fa fa-search"></i></a>
-                                                            <a href="#" class="left-link"><i class="fa fa-heart"></i></a>   
-                                                            <a class="right-link" href="#"><i class="cart-icn"> </i></a>
+                                                               
+                                                            
                                                         </div>                                                   
                                                     </div>
                                                 </div>
@@ -144,19 +144,19 @@
                                         <div class="portfolio-wrapper">
                                             <div class="col-md-3 col-sm-5">
                                                 <div class="portfolio-thumb">
-                                                    <img class="img__item" src="https://roza-carpet.ru/roza_carpet2/img/!69bb3af96923e6005ff6cf0770a740c1.jpeg/m350_69bb3af96923e6005ff6cf0770a740c1.jpeg" alt="">
+                                                    <img class="img__item" src="assets/img/offer-products/2.jpg" alt="">
                                                     <div class="portfolio-content"> 
                                                         <div class="pop-up-icon">                 
                                                             <a class="center-link" href="#product-preview" data-toggle="modal"><i class="fa fa-search"></i></a>
-                                                            <a class="left-link" href="#"><i class="fa fa-heart"></i></a>   
-                                                            <a class="right-link" href="#"><i class="cart-icn"> </i></a>
+                                                               
+                                                            
                                                         </div>                                                  
                                                     </div>
                                                 </div>
                                             </div>
                                             <div class="col-md-9 col-sm-7">
                                                 <div class="product-content">
-                                                    <a class="title-3 fsz-16" href="#"> CICLYSMO JACKET </a> 
+                                                    <a class="title-3 fsz-16" href="#"> Astana & Florencia </a> 
                                                     <div class="rating">                                                              
                                                         <span class="star active"></span>
                                                         <span class="star active"></span>
@@ -164,11 +164,9 @@
                                                         <span class="star"></span>
                                                         <span class="star"></span>
                                                     </div>
-                                                    <p class="font-3">Price: <span class="thm-clr"> $299.00 </span> </p>    
-                                                    <p class="font-3"> Available:<span class="grn-clr"> In Stock </span>  </p>
-                                                    <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc condimentum eros idoni 
-                                                        rutrum fermentum. Proin nec felis dui. Vestibulum ante ipsum primis in faucibus orci 
-                                                        luctus et ultrices posuere cubilia Curae.</p>
+                                                    <p class="font-3">Price: <span class="thm-clr"><?php echo 5 + mt_rand(5, 15); ?>000р. </span> </p>    
+                                                    <p class="font-3"> В наличии<span class="grn-clr"> Есть </span>  </p>
+                                                    <p>   </p>
                                                     <a class="fancy-btn fancy-btn-small" href="single-product.html">Add to Cart</a>
                                                 </div>
                                             </div>
@@ -182,15 +180,15 @@
                                                     <div class="portfolio-content"> 
                                                         <div class="pop-up-icon">                 
                                                             <a class="center-link" href="#product-preview" data-toggle="modal"><i class="fa fa-search"></i></a>
-                                                            <a class="left-link" href="#"><i class="fa fa-heart"></i></a>   
-                                                            <a class="right-link" href="#"><i class="cart-icn"> </i></a>
+                                                               
+                                                            
                                                         </div>                                                  
                                                     </div>
                                                 </div>
                                             </div>
                                             <div class="col-md-9 col-sm-7">
                                                 <div class="product-content">
-                                                    <a class="title-3 fsz-16" href="#">  LYCRA BITZ MEN CLOTHING  </a> 
+                                                    <a class="title-3 fsz-16" href="#">  CARPET & TURKEY   </a> 
                                                     <div class="rating">                                                              
                                                         <span class="star active"></span>
                                                         <span class="star active"></span>
@@ -198,11 +196,9 @@
                                                         <span class="star"></span>
                                                         <span class="star"></span>
                                                     </div>
-                                                    <p class="font-3">Price: <span class="thm-clr"> $299.00 </span> </p>    
-                                                    <p class="font-3"> Available:<span class="red-clr"> Out Of Stock </span>  </p>
-                                                    <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc condimentum eros idoni 
-                                                        rutrum fermentum. Proin nec felis dui. Vestibulum ante ipsum primis in faucibus orci 
-                                                        luctus et ultrices posuere cubilia Curae.</p>
+                                                    <p class="font-3">Price: <span class="thm-clr"><?php echo 5 + mt_rand(5, 15); ?>000р. </span> </p>    
+                                                    <p class="font-3"> В наличии<span class="red-clr"> Нет </span>  </p>
+                                                    <p>   </p>
                                                     <a class="fancy-btn fancy-btn-small" href="single-product.html">Add to Cart</a>
                                                 </div>
                                             </div>
@@ -216,15 +212,15 @@
                                                     <div class="portfolio-content"> 
                                                         <div class="pop-up-icon">                 
                                                             <a class="center-link" href="#product-preview" data-toggle="modal"><i class="fa fa-search"></i></a>
-                                                            <a class="left-link" href="#"><i class="fa fa-heart"></i></a>   
-                                                            <a class="right-link" href="#"><i class="cart-icn"> </i></a>
+                                                               
+                                                            
                                                         </div>                                                  
                                                     </div>
                                                 </div>
                                             </div>
                                             <div class="col-md-9 col-sm-7">
                                                 <div class="product-content">
-                                                    <a class="title-3 fsz-16" href="#"> CICLYSMO JACKET </a> 
+                                                    <a class="title-3 fsz-16" href="#"> Astana & Florencia </a> 
                                                     <div class="rating">                                                              
                                                         <span class="star active"></span>
                                                         <span class="star active"></span>
@@ -232,11 +228,9 @@
                                                         <span class="star active"></span>
                                                         <span class="star half"></span>
                                                     </div>
-                                                    <p class="font-3">Price: <span class="thm-clr"> $299.00 </span> </p>    
-                                                    <p class="font-3"> Available:<span class="grn-clr"> In Stock </span>  </p>
-                                                    <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc condimentum eros idoni 
-                                                        rutrum fermentum. Proin nec felis dui. Vestibulum ante ipsum primis in faucibus orci 
-                                                        luctus et ultrices posuere cubilia Curae.</p>
+                                                    <p class="font-3">Price: <span class="thm-clr"><?php echo 5 + mt_rand(5, 15); ?>000р. </span> </p>    
+                                                    <p class="font-3"> В наличии<span class="grn-clr"> Есть </span>  </p>
+                                                    <p>   </p>
                                                     <a class="fancy-btn fancy-btn-small" href="single-product.html">Add to Cart</a>
                                                 </div>
                                             </div>
@@ -251,15 +245,15 @@
                                                     <div class="portfolio-content"> 
                                                         <div class="pop-up-icon">                 
                                                             <a class="center-link" href="#product-preview" data-toggle="modal"><i class="fa fa-search"></i></a>
-                                                            <a class="left-link" href="#"><i class="fa fa-heart"></i></a>   
-                                                            <a class="right-link" href="#"><i class="cart-icn"> </i></a>
+                                                               
+                                                            
                                                         </div>                                                  
                                                     </div>
                                                 </div>
                                             </div>
                                             <div class="col-md-9 col-sm-7">
                                                 <div class="product-content">
-                                                    <a class="title-3 fsz-16" href="#"> LYCRA BITZ MEN CLOTHING </a> 
+                                                    <a class="title-3 fsz-16" href="#"> CARPET & TURKEY  </a> 
                                                     <div class="rating">                                                              
                                                         <span class="star active"></span>
                                                         <span class="star active"></span>
@@ -267,11 +261,9 @@
                                                         <span class="star"></span>
                                                         <span class="star"></span>
                                                     </div>
-                                                    <p class="font-3">Price: <span class="thm-clr"> $299.00 </span> </p>    
-                                                    <p class="font-3"> Available:<span class="grn-clr"> In Stock </span>  </p>
-                                                    <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc condimentum eros idoni 
-                                                        rutrum fermentum. Proin nec felis dui. Vestibulum ante ipsum primis in faucibus orci 
-                                                        luctus et ultrices posuere cubilia Curae.</p>
+                                                    <p class="font-3">Price: <span class="thm-clr"><?php echo 5 + mt_rand(5, 15); ?>000р. </span> </p>    
+                                                    <p class="font-3"> В наличии<span class="grn-clr"> Есть </span>  </p>
+                                                    <p>   </p>
                                                     <a class="fancy-btn fancy-btn-small" href="single-product.html">Add to Cart</a>
                                                 </div>
                                             </div>
@@ -308,12 +300,10 @@
                     <div class="diblock">
                         <div class="col-lg-6 col-sm-12 col-xs-12">
                             <div id="gallery-1" class="royalSlider rsUni">
-                                <a class="rsImg" data-rsbigimg="assets/img/products/single-1.jpg" href="assets/img/products/single-1.jpg" data-rsw="500" data-rsh="500"> <img class="rsTmb" src="assets/img/products/single-thumb-1.jpg" alt=""></a>
-                                <a class="rsImg" data-rsbigimg="assets/img/products/single-1.jpg" href="assets/img/products/single-2.jpg" data-rsw="500" data-rsh="500"> <img class="rsTmb" src="assets/img/products/single-thumb-2.jpg" alt=""></a>
-                                <a class="rsImg" data-rsbigimg="assets/img/products/single-1.jpg" href="assets/img/products/single-3.jpg" data-rsw="500" data-rsh="500"> <img class="rsTmb" src="assets/img/products/single-thumb-3.jpg" alt=""></a>
-                                <a class="rsImg" data-rsbigimg="assets/img/products/single-1.jpg" href="assets/img/products/single-1.jpg" data-rsw="500" data-rsh="500"> <img class="rsTmb" src="assets/img/products/single-thumb-1.jpg" alt=""></a>
-                                <a class="rsImg" data-rsbigimg="assets/img/products/single-1.jpg" href="assets/img/products/single-2.jpg" data-rsw="500" data-rsh="500"> <img class="rsTmb" src="assets/img/products/single-thumb-2.jpg" alt=""></a>
-                                <a class="rsImg" data-rsbigimg="assets/img/products/single-1.jpg" href="assets/img/products/single-3.jpg" data-rsw="500" data-rsh="500"> <img class="rsTmb" src="assets/img/products/single-thumb-3.jpg" alt=""></a>
+                                <a class="rsImg"  href="assets/img/offer-products/30.jpg" data-rsw="500" data-rsh="500"> <img class="rsTmb" src="assets/img/offer-products/30.jpg" alt=""></a>
+                                <a class="rsImg"  href="assets/img/offer-products/31.jpg" data-rsw="500" data-rsh="500"> <img class="rsTmb" src="assets/img/offer-products/31.jpg" alt=""></a>
+                                <a class="rsImg"  href="assets/img/offer-products/32.jpg" data-rsw="500" data-rsh="500"> <img class="rsTmb" src="assets/img/offer-products/32.jpg" alt=""></a>
+                                <a class="rsImg"  href="assets/img/offer-products/33.jpg" data-rsw="500" data-rsh="500"> <img class="rsTmb" src="assets/img/offer-products/33.jpg" alt=""></a>
                             </div>
                         </div>
                         <div class="spc-15 hidden-lg clear"></div>
@@ -325,28 +315,28 @@
                                         <span class="star active"></span>
                                         <span class="star active"></span>                                           
                                         <span class="star active"></span>
-                                        <span class="star half"></span>
+                                        <span class="star active"></span>
                                     </div>
 
                                     <div  class="posted_in">
-                                        <h3 class="funky-font-2 fsz-20">Women Collection</h3>
+                                        <h3 class="funky-font-2 fsz-20">Exclusive Collection</h3>
                                     </div>
                                 </div>
 
                                 <div class="product_title_wrapper">
                                     <div itemprop="name" class="product_title entry-title">
-                                        Flusas Denim <span class="thm-clr">Dress</span>
-                                        <p class="font-3 fsz-18 no-mrgn price"> <b class="amount blk-clr">$175.00</b> <del>$299.00</del> </p>       
+                                       Astana <span class="thm-clr">Florencia</span>
+                                        <p class="font-3 fsz-18 no-mrgn price"> <b class="amount blk-clr">20 000 р.</b> <del>22 000 р.</del> </p>       
                                     </div>
                                 </div>
 
                                 <div itemprop="description" class="fsz-15">
-                                    <p>Qossi is an emerging company and dedicated to making high quality bags and fashions.Qossi designers are internationally renowned designers,having participated in many international fashion designing contests,and perform outstandingly</p>                                  
+                                    <p>Ковры в качестве товарной категории являются разновидностью ковровых покрытий. Они представляют собой завершённое, обработанное оверлоком по всему периметру изделие, имеющее сложный (флористика, портреты, гобелены, классика) либо простой (абстракция, однотонный мотив) дизайн (рисунок). Ковры производятся двумя способами: ткацким и тафтинговым</p>                                  
                                 </div>
 
                                 <ul class="stock-detail list-items fsz-12">
-                                    <li> <strong> MATERIAL : <span class="blk-clr"> COTTON </span> </strong> </li>
-                                    <li> <strong>  STOCK : <span class="blk-clr"> READY STOCK </span> </strong> </li>
+                                    <li> <strong> Материал : <span class="blk-clr"> Рюрикс, поливискоза, шерсть, акрил </span> </strong> </li>
+                                    <li> <strong>  В наличии : <span class="blk-clr"> Есть </span> </strong> </li>
                                 </ul>
 
                                 <form class="variations_form cart" method="post">
@@ -401,7 +391,7 @@
                                     </div>
                                 </form>
                             </div><!-- .summary -->
-                        </div>  
+                        </div>    
                     </div>
                 </div>
             </div>

@@ -251,7 +251,7 @@
                                         </div>
                                     </div>
                                     <div class="product-content">
-                                        <h3> <a class="title-3 fsz-18" href="#">BREEZER SQUALL 1.0</a> </h3>
+                                        <h3> <a class="title-3 fsz-18" href="#">Astana & Florencia</a> </h3>
                                         <p class="font-2">Цена от <span class="thm-clr"> 12 000 р  </span> </p>    
                                     </div>
                                 </div>
@@ -283,7 +283,7 @@
                                         </div>
                                     </div>
                                     <div class="product-content">
-                                        <h3> <a class="title-3 fsz-18" href="#">GT SENSOR COMP 27.5</a> </h3>
+                                        <h3> <a class="title-3 fsz-18" href="#">  Carpet & Turkey <i class="fa fa-flag"></i> & Turkey <i class="fa fa-flag"></i></a> </h3>
                                         <p class="font-2">Цена от <span class="thm-clr"> 15 000 р  </span> </p>    
                                     </div>
                                 </div>
@@ -315,7 +315,7 @@
                                         </div>
                                     </div>
                                     <div class="product-content">
-                                        <h3> <a class="title-3 fsz-18" href="#">BREEZER SQUALL 1.0</a> </h3>
+                                        <h3> <a class="title-3 fsz-18" href="#">Astana & Florencia</a> </h3>
                                         <p class="font-2">Цена от <span class="thm-clr"> 9 500 р </span> </p>    
                                     </div>
                                 </div>
@@ -444,7 +444,7 @@
                                 <div class="image"><a href="#"><img src="https://images.ua.prom.st/1892511481_w640_h640_kover-moretti-turin.jpg" alt="Product"></a></div>
                                 <div class="right">
                                     <p class="funky-font-2"></p>
-                                    <div class="name"><a href="#">GT SENSOR COMP 27.5</a></div>
+                                    <div class="name"><a href="#"> Carpet  & Turkey <i class="fa fa-flag"></i></a></div>
                                     <div class="Цена font-2">Цена: <span class="Цена-new">12 000 р.</span> <span class="Цена-old"></span></div>
                                 </div>
                             </div>
@@ -455,7 +455,7 @@
                                 <div class="image"><a href="#"><img src="https://images.ua.prom.st/1892515308_w640_h640_kover-moretti-turin.jpg" alt="Product"></a></div>
                                 <div class="right">
                                     <p class="funky-font-2"></p>
-                                    <div class="name"><a href="#">BREEZER SQUALL 1.0</a></div>
+                                    <div class="name"><a href="#">Astana & Florencia</a></div>
                                     <div class="Цена font-2">Цена: <span class="Цена-new">15 000 р.</span> <span class="Цена-old"></span></div>
                                 </div>
                             </div>
@@ -466,7 +466,7 @@
                                 <div class="image"><a href="#"><img src="https://cdn2.riastatic.com/photosnew/general/adv_photos/home-textil-kover-karat-gold-323-123-1-60x2-25-m-ovalnyy-bezhevyy__112212225m.jpg" alt="Product"></a></div>
                                 <div class="right">
                                     <p class="funky-font-2"></p>
-                                    <div class="name"><a href="#">GT SENSOR COMP 27.5</a></div>
+                                    <div class="name"><a href="#"> Carpet  & Turkey <i class="fa fa-flag"></i></a></div>
                                     <div class="Цена font-2">Цена: <span class="Цена-new">16 000 р.</span> <span class="Цена-old"></span></div>
                                 </div>
                             </div>
@@ -477,7 +477,7 @@
                                 <div class="image"><a href="#"><img src="https://images.ua.prom.st/761498510_kover-na-pol.jpg" alt="Product"></a></div>
                                 <div class="right">
                                     <p class="funky-font-2"></p>
-                                    <div class="name"><a href="#">BREEZER SQUALL 1.0</a></div>
+                                    <div class="name"><a href="#">Astana & Florencia</a></div>
                                     <div class="Цена font-2">Цена: <span class="Цена-new">11 000 р.</span> <span class="Цена-old"></span></div>
                                 </div>
                             </div>
@@ -488,7 +488,7 @@
                                 <div class="image"><a href="#"><img src="https://kasta.ua/imgw/loc/414x576/uploads/product_image/2020/10/212/a2c1e56fb6b042c18ffb91c9f341d491.jpg" alt="Product"></a></div>
                                 <div class="right">
                                     <p class="funky-font-2"></p>
-                                    <div class="name"><a href="#">GT SENSOR COMP 27.5</a></div>
+                                    <div class="name"><a href="#"> Carpet  & Turkey <i class="fa fa-flag"></i></a></div>
                                     <div class="Цена font-2">Цена: <span class="Цена-new">8 000 р.</span> <span class="Цена-old"></span></div>
                                 </div>
                             </div>
@@ -499,7 +499,7 @@
                                 <div class="image"><a href="#"><img src="https://st2.depositphotos.com/1001370/6260/i/950/depositphotos_62608847-stock-photo-colorful-carpets-in-the-store.jpg" alt="Product"></a></div>
                                 <div class="right">
                                     <p class="funky-font-2"></p>
-                                    <div class="name"><a href="#">GT SENSOR COMP 27.5</a></div>
+                                    <div class="name"><a href="#"> Carpet  & Turkey <i class="fa fa-flag"></i></a></div>
                                     <div class="Цена font-2">Цена: <span class="Цена-new">20 000 р.</span> <span class="Цена-old"></span></div>
                                 </div>
                             </div>
@@ -515,15 +515,8 @@
                     <div class="col-md-8 col-md-offset-2 col-sm-10 col-sm-offset-1 add-wrap">
                         <div class=" text-center">
                             <h2 class="fsz-35"> <span class="bold-font-3 wht-clr">Ковры </span> <span class="thm-clr funky-font">дорожки</span> </h2>
-                            <p>Донецкая область, город Макеевка, улица Ленина 121<br>
-                                Номера телефонов :
-                                <br>
-                                 071-407-44-74
-                                <br>
-                                071-407-44-81
-                                <br>
-                                071-407-44-80
-                            </p>
+                            <a href="https://www.instagram.com/valerij_shumkov" target="_blank"><i class="fa fa-instagram custom-icon"></i></a>
+                            <a href="https://vk.com/kovry_dorozhki_kovrolin_makeevka" target="_blank"><i class="fa fa-vk custom-icon"></i></a>
                             <div class="fancy-heading text-center">
                                 <h2 class="title-2">часы работы</h2>                           
                             </div>
@@ -573,14 +566,14 @@
                                     </div>
 
                                     <div  class="posted_in">
-                                        <h3 class="funky-font-2 fsz-20">Women Collection</h3>
+                                        <h3 class="funky-font-2 fsz-20">Exclusive Collection</h3>
                                     </div>
                                 </div>
 
                                 <div class="product_title_wrapper">
                                     <div itemprop="name" class="product_title entry-title">
-                                        Flusas Denim <span class="thm-clr">Dress</span>
-                                        <p class="font-3 fsz-18 no-mrgn Цена"> <b class="amount blk-clr">$175.00</b> <del>12 000 р.</del> </p>       
+                                        Турецкие ковры <i class="fa fa-flag"></i> <span class="thm-clr">Иранские ковры</span>
+                                        <p class="font-3 fsz-18 no-mrgn Цена"> <b class="amount blk-clr"><?php echo abs(mt_rand(15, 20) - 3); ?>000 р.</b> <del><?php echo 2 + mt_rand(15, 20); ?> 000 р.</del> </p>       
                                     </div>
                                 </div>
 
@@ -592,8 +585,8 @@
                                 </div>
 
                                 <ul class="stock-detail list-items fsz-12">
-                                    <li> <strong> MATERIAL : <span class="blk-clr"> COTTON </span> </strong> </li>
-                                    <li> <strong>  STOCK : <span class="blk-clr"> READY STOCK </span> </strong> </li>
+                                    <li> <strong> Материал : <span class="blk-clr"> Иранские ковры, полиэстер, акрил, рюрикс </span> </strong> </li>
+                                    <li> <strong>  В наличии : <span class="blk-clr"> Есть </span> </strong> </li>
                                 </ul>
 
                                 <form class="variations_form cart" method="post">
@@ -685,24 +678,27 @@
                             </div>
 
                             <div  class="posted_in">
-                                <h3 class="funky-font-2 fsz-20">Women Collection</h3>
+                                <h3 class="funky-font-2 fsz-20">Exclusive Collection</h3>
                             </div>
                         </div>
 
                         <div class="product_title_wrapper">
                             <div itemprop="name" class="product_title entry-title">
-                                Flusas Denim <span class="thm-clr">Dress</span>
-                                <p class="font-3 fsz-18 no-mrgn Цена"> <b class="amount blk-clr">$175.00</b> <del>12 000 р.</del> </p>       
+                                Турецкие ковры <i class="fa fa-flag"></i> <span class="thm-clr">Иранские ковры</span>
+                                <p class="font-3 fsz-18 no-mrgn Цена"> <b class="amount blk-clr"><?php echo abs(mt_rand(15, 20) - 3); ?>000 р.</b> <del><?php echo 2 + mt_rand(15, 20); ?> 000 р.</del> </p>       
                             </div>
                         </div>
 
                         <div itemprop="description" class="fsz-15">
-                            <p>Qossi is an emerging company and dedicated to making high quality bags and fashions.Qossi designers are internationally renowned designers,having participated in many international fashion designing contests,and perform outstandingly</p>                                  
+                            <p>Основным материалом, необходимым для каждого текстильного изделия, является волокно. Волокна могут быть натурального или искусственного происхождения.
+ 
+ Волокна натурального происхождения в свою очередь делятся на растительные и животные материалы. Среди натуральных растительных материалов для изготовления ковров применяются такие как лен, хлопок, джут, пенька, сизаль и некоторые другие. Материалы животного происхождения – это Иранские ковры и шелк.
+  </p>                                  
                         </div>
 
                         <ul class="stock-detail list-items fsz-12">
-                            <li> <strong> MATERIAL : <span class="blk-clr"> COTTON </span> </strong> </li>
-                            <li> <strong>  STOCK : <span class="blk-clr"> READY STOCK </span> </strong> </li>
+                            <li> <strong> Материал : <span class="blk-clr"> Иранские ковры, полиэстер, акрил, рюрикс </span> </strong> </li>
+                            <li> <strong>  В наличии : <span class="blk-clr"> Есть </span> </strong> </li>
                         </ul>
 
                         <form class="variations_form cart" method="post">
@@ -794,24 +790,27 @@
                             </div>
 
                             <div  class="posted_in">
-                                <h3 class="funky-font-2 fsz-20">Women Collection</h3>
+                                <h3 class="funky-font-2 fsz-20">Exclusive Collection</h3>
                             </div>
                         </div>
 
                         <div class="product_title_wrapper">
                             <div itemprop="name" class="product_title entry-title">
-                                Flusas Denim <span class="thm-clr">Dress</span>
-                                <p class="font-3 fsz-18 no-mrgn Цена"> <b class="amount blk-clr">$175.00</b> <del>12 000 р.</del> </p>       
+                                Турецкие ковры <i class="fa fa-flag"></i> <span class="thm-clr">Иранские ковры</span>
+                                <p class="font-3 fsz-18 no-mrgn Цена"> <b class="amount blk-clr"><?php echo abs(mt_rand(15, 20) - 3); ?>000 р.</b> <del><?php echo 2 + mt_rand(15, 20); ?> 000 р.</del> </p>       
                             </div>
                         </div>
 
                         <div itemprop="description" class="fsz-15">
-                            <p>Qossi is an emerging company and dedicated to making high quality bags and fashions.Qossi designers are internationally renowned designers,having participated in many international fashion designing contests,and perform outstandingly</p>                                  
+                            <p>Основным материалом, необходимым для каждого текстильного изделия, является волокно. Волокна могут быть натурального или искусственного происхождения.
+ 
+Волокна натурального происхождения в свою очередь делятся на растительные и животные материалы. Среди натуральных растительных материалов для изготовления ковров применяются такие как лен, хлопок, джут, пенька, сизаль и некоторые другие. Материалы животного происхождения – это Иранские ковры и шелк.
+ </p>                                  
                         </div>
 
                         <ul class="stock-detail list-items fsz-12">
-                            <li> <strong> MATERIAL : <span class="blk-clr"> COTTON </span> </strong> </li>
-                            <li> <strong>  STOCK : <span class="blk-clr"> READY STOCK </span> </strong> </li>
+                            <li> <strong> Материал : <span class="blk-clr"> Иранские ковры, полиэстер, акрил, рюрикс </span> </strong> </li>
+                            <li> <strong>  В наличии : <span class="blk-clr"> Есть </span> </strong> </li>
                         </ul>
 
                         <form class="variations_form cart" method="post">
@@ -904,24 +903,27 @@
                             </div>
 
                             <div  class="posted_in">
-                                <h3 class="funky-font-2 fsz-20">Women Collection</h3>
+                                <h3 class="funky-font-2 fsz-20">Exclusive Collection</h3>
                             </div>
                         </div>
 
                         <div class="product_title_wrapper">
                             <div itemprop="name" class="product_title entry-title">
-                                Flusas Denim <span class="thm-clr">Dress</span>
-                                <p class="font-3 fsz-18 no-mrgn Цена"> <b class="amount blk-clr">$175.00</b> <del>12 000 р.</del> </p>       
+                                Турецкие ковры <i class="fa fa-flag"></i> <span class="thm-clr">Иранские ковры</span>
+                                <p class="font-3 fsz-18 no-mrgn Цена"> <b class="amount blk-clr"><?php echo abs(mt_rand(15, 20) - 3); ?>000 р.</b> <del><?php echo 2 + mt_rand(15, 20); ?> 000 р.</del> </p>       
                             </div>
                         </div>
 
                         <div itemprop="description" class="fsz-15">
-                            <p>Qossi is an emerging company and dedicated to making high quality bags and fashions.Qossi designers are internationally renowned designers,having participated in many international fashion designing contests,and perform outstandingly</p>                                  
+                            <p>Основным материалом, необходимым для каждого текстильного изделия, является волокно. Волокна могут быть натурального или искусственного происхождения.
+ 
+Волокна натурального происхождения в свою очередь делятся на растительные и животные материалы. Среди натуральных растительных материалов для изготовления ковров применяются такие как лен, хлопок, джут, пенька, сизаль и некоторые другие. Материалы животного происхождения – это Иранские ковры и шелк.
+ </p>                                  
                         </div>
 
                         <ul class="stock-detail list-items fsz-12">
-                            <li> <strong> MATERIAL : <span class="blk-clr"> COTTON </span> </strong> </li>
-                            <li> <strong>  STOCK : <span class="blk-clr"> READY STOCK </span> </strong> </li>
+                            <li> <strong> Материал : <span class="blk-clr"> Иранские ковры, полиэстер, акрил, рюрикс </span> </strong> </li>
+                            <li> <strong>  В наличии : <span class="blk-clr"> Есть </span> </strong> </li>
                         </ul>
 
                         <form class="variations_form cart" method="post">
@@ -1014,24 +1016,27 @@
                             </div>
 
                             <div  class="posted_in">
-                                <h3 class="funky-font-2 fsz-20">Women Collection</h3>
+                                <h3 class="funky-font-2 fsz-20">Exclusive Collection</h3>
                             </div>
                         </div>
 
                         <div class="product_title_wrapper">
                             <div itemprop="name" class="product_title entry-title">
-                                Flusas Denim <span class="thm-clr">Dress</span>
-                                <p class="font-3 fsz-18 no-mrgn Цена"> <b class="amount blk-clr">$175.00</b> <del>12 000 р.</del> </p>       
+                                Турецкие ковры <i class="fa fa-flag"></i> <span class="thm-clr">Иранские ковры</span>
+                                <p class="font-3 fsz-18 no-mrgn Цена"> <b class="amount blk-clr"><?php echo abs(mt_rand(15, 20) - 3); ?>000 р.</b> <del><?php echo 2 + mt_rand(15, 20); ?> 000 р.</del> </p>       
                             </div>
                         </div>
 
                         <div itemprop="description" class="fsz-15">
-                            <p>Qossi is an emerging company and dedicated to making high quality bags and fashions.Qossi designers are internationally renowned designers,having participated in many international fashion designing contests,and perform outstandingly</p>                                  
+                            <p>Основным материалом, необходимым для каждого текстильного изделия, является волокно. Волокна могут быть натурального или искусственного происхождения.
+ 
+Волокна натурального происхождения в свою очередь делятся на растительные и животные материалы. Среди натуральных растительных материалов для изготовления ковров применяются такие как лен, хлопок, джут, пенька, сизаль и некоторые другие. Материалы животного происхождения – это Иранские ковры и шелк.
+ </p>                                  
                         </div>
 
                         <ul class="stock-detail list-items fsz-12">
-                            <li> <strong> MATERIAL : <span class="blk-clr"> COTTON </span> </strong> </li>
-                            <li> <strong>  STOCK : <span class="blk-clr"> READY STOCK </span> </strong> </li>
+                            <li> <strong> Материал : <span class="blk-clr"> Иранские ковры, полиэстер, акрил, рюрикс </span> </strong> </li>
+                            <li> <strong>  В наличии : <span class="blk-clr"> Есть </span> </strong> </li>
                         </ul>
 
                         <form class="variations_form cart" method="post">
@@ -1122,24 +1127,27 @@
                             </div>
 
                             <div  class="posted_in">
-                                <h3 class="funky-font-2 fsz-20">Women Collection</h3>
+                                <h3 class="funky-font-2 fsz-20">Exclusive Collection</h3>
                             </div>
                         </div>
 
                         <div class="product_title_wrapper">
                             <div itemprop="name" class="product_title entry-title">
-                                Flusas Denim <span class="thm-clr">Dress</span>
-                                <p class="font-3 fsz-18 no-mrgn Цена"> <b class="amount blk-clr">$175.00</b> <del>12 000 р.</del> </p>       
+                                Турецкие ковры <i class="fa fa-flag"></i> <span class="thm-clr">Иранские ковры</span>
+                                <p class="font-3 fsz-18 no-mrgn Цена"> <b class="amount blk-clr"><?php echo abs(mt_rand(15, 20) - 3); ?>000 р.</b> <del><?php echo 2 + mt_rand(15, 20); ?> 000 р.</del> </p>       
                             </div>
                         </div>
 
                         <div itemprop="description" class="fsz-15">
-                            <p>Qossi is an emerging company and dedicated to making high quality bags and fashions.Qossi designers are internationally renowned designers,having participated in many international fashion designing contests,and perform outstandingly</p>                                  
+                            <p>Основным материалом, необходимым для каждого текстильного изделия, является волокно. Волокна могут быть натурального или искусственного происхождения.
+ 
+Волокна натурального происхождения в свою очередь делятся на растительные и животные материалы. Среди натуральных растительных материалов для изготовления ковров применяются такие как лен, хлопок, джут, пенька, сизаль и некоторые другие. Материалы животного происхождения – это Иранские ковры и шелк.
+ </p>                                  
                         </div>
 
                         <ul class="stock-detail list-items fsz-12">
-                            <li> <strong> MATERIAL : <span class="blk-clr"> COTTON </span> </strong> </li>
-                            <li> <strong>  STOCK : <span class="blk-clr"> READY STOCK </span> </strong> </li>
+                            <li> <strong> Материал : <span class="blk-clr"> Иранские ковры, полиэстер, акрил, рюрикс </span> </strong> </li>
+                            <li> <strong>  В наличии : <span class="blk-clr"> Есть </span> </strong> </li>
                         </ul>
 
                         <form class="variations_form cart" method="post">
@@ -1232,24 +1240,27 @@
                             </div>
 
                             <div  class="posted_in">
-                                <h3 class="funky-font-2 fsz-20">Women Collection</h3>
+                                <h3 class="funky-font-2 fsz-20">Exclusive Collection</h3>
                             </div>
                         </div>
 
                         <div class="product_title_wrapper">
                             <div itemprop="name" class="product_title entry-title">
-                                Flusas Denim <span class="thm-clr">Dress</span>
-                                <p class="font-3 fsz-18 no-mrgn Цена"> <b class="amount blk-clr">$175.00</b> <del>12 000 р.</del> </p>       
+                                Турецкие ковры <i class="fa fa-flag"></i> <span class="thm-clr">Иранские ковры</span>
+                                <p class="font-3 fsz-18 no-mrgn Цена"> <b class="amount blk-clr"><?php echo abs(mt_rand(15, 20) - 3); ?>000 р.</b> <del><?php echo 2 + mt_rand(15, 20); ?> 000 р.</del> </p>       
                             </div>
                         </div>
 
                         <div itemprop="description" class="fsz-15">
-                            <p>Qossi is an emerging company and dedicated to making high quality bags and fashions.Qossi designers are internationally renowned designers,having participated in many international fashion designing contests,and perform outstandingly</p>                                  
+                            <p>Основным материалом, необходимым для каждого текстильного изделия, является волокно. Волокна могут быть натурального или искусственного происхождения.
+ 
+Волокна натурального происхождения в свою очередь делятся на растительные и животные материалы. Среди натуральных растительных материалов для изготовления ковров применяются такие как лен, хлопок, джут, пенька, сизаль и некоторые другие. Материалы животного происхождения – это Иранские ковры и шелк.
+ </p>                                  
                         </div>
 
                         <ul class="stock-detail list-items fsz-12">
-                            <li> <strong> MATERIAL : <span class="blk-clr"> COTTON </span> </strong> </li>
-                            <li> <strong>  STOCK : <span class="blk-clr"> READY STOCK </span> </strong> </li>
+                            <li> <strong> Материал : <span class="blk-clr"> Иранские ковры, полиэстер, акрил, рюрикс </span> </strong> </li>
+                            <li> <strong>  В наличии : <span class="blk-clr"> Есть </span> </strong> </li>
                         </ul>
 
                         <form class="variations_form cart" method="post">
@@ -1342,24 +1353,27 @@
                             </div>
 
                             <div  class="posted_in">
-                                <h3 class="funky-font-2 fsz-20">Women Collection</h3>
+                                <h3 class="funky-font-2 fsz-20">Exclusive Collection</h3>
                             </div>
                         </div>
 
                         <div class="product_title_wrapper">
                             <div itemprop="name" class="product_title entry-title">
-                                Flusas Denim <span class="thm-clr">Dress</span>
-                                <p class="font-3 fsz-18 no-mrgn Цена"> <b class="amount blk-clr">$175.00</b> <del>12 000 р.</del> </p>       
+                                Турецкие ковры <i class="fa fa-flag"></i> <span class="thm-clr">Иранские ковры</span>
+                                <p class="font-3 fsz-18 no-mrgn Цена"> <b class="amount blk-clr"><?php echo abs(mt_rand(15, 20) - 3); ?>000 р.</b> <del><?php echo 2 + mt_rand(15, 20); ?> 000 р.</del> </p>       
                             </div>
                         </div>
 
                         <div itemprop="description" class="fsz-15">
-                            <p>Qossi is an emerging company and dedicated to making high quality bags and fashions.Qossi designers are internationally renowned designers,having participated in many international fashion designing contests,and perform outstandingly</p>                                  
+                            <p>Основным материалом, необходимым для каждого текстильного изделия, является волокно. Волокна могут быть натурального или искусственного происхождения.
+ 
+Волокна натурального происхождения в свою очередь делятся на растительные и животные материалы. Среди натуральных растительных материалов для изготовления ковров применяются такие как лен, хлопок, джут, пенька, сизаль и некоторые другие. Материалы животного происхождения – это Иранские ковры и шелк.
+ </p>                                  
                         </div>
 
                         <ul class="stock-detail list-items fsz-12">
-                            <li> <strong> MATERIAL : <span class="blk-clr"> COTTON </span> </strong> </li>
-                            <li> <strong>  STOCK : <span class="blk-clr"> READY STOCK </span> </strong> </li>
+                            <li> <strong> Материал : <span class="blk-clr"> Иранские ковры, полиэстер, акрил, рюрикс </span> </strong> </li>
+                            <li> <strong>  В наличии : <span class="blk-clr"> Есть </span> </strong> </li>
                         </ul>
 
                         <form class="variations_form cart" method="post">
