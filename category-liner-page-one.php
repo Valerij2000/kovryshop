@@ -50,9 +50,9 @@
             <div class="breadcrumbs">
                 <div class="breadcrumbs text-center">
                     <i class="fa fa-home"></i>
-                    <span><a href="index.php">Home</a></span>
+                    <span><a href="index.php">Главная</a></span>
                     <i class="fa fa-arrow-circle-right"></i>
-                    <span class="current">Shop</span>
+                    <span class="current">Магазин </span>
                 </div>
             </div>
         </div>

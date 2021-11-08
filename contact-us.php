@@ -44,15 +44,15 @@
         <div class="main-wrapper clearfix">
             <div class="site-pagetitle jumbotron">
                 <div class="container  theme-container text-center">
-                    <h3>Goshop Contact</h3>
+                    <h3>Kovryshop</h3>
 
                     <!-- Breadcrumbs -->
                     <div class="breadcrumbs">
                         <div class="breadcrumbs text-center">
                             <i class="fa fa-home"></i>
-                            <span><a href="index.php">Home</a></span>
+                            <span><a href="index.php">Главная</a></span>
                             <i class="fa fa-arrow-circle-right"></i>
-                            <span class="current">Contact</span>
+                            <span class="current">Контакты</span>
                         </div>
                     </div>
                 </div>
