@@ -348,19 +348,19 @@
                     <h3><span class="thm-clr">предлагаемые</span> продукты</h3>
                 </div>
                 <div class="featured-products diblock">
-
+                        
                     <?php include ('offer-cards.php'); ?>
-
-                    <div class="content"></div>
                    
+                   <span class="hidden_block">
+                    <?php include ('hidden-offer.php'); ?>
+                    </span>
+
                     <div class="col-lg-12 padding text-center mb-3 mt-3 load-more_block">
                         <a id="load-more">
                             <span>Load More</span>
                             <i class="fa fa-refresh" aria-hidden="true"></i>
                         </a>
                     </div>
-
-              
 
                 </div>
             </section>
@@ -1493,6 +1493,13 @@
         <script src="assets/js/countdown.js"></script>
         <script src="assets/js/jquery.sticky.js"></script>
         <script src="assets/js/custom.js"></script>
+        
+        <script>
+            $('.hidden_block').css("display", "none");
+            $('#load-more').on('click', () => {
+                $('.hidden_block').css("display", "block");
+            })
+        </script>
 
     </body>
 </html>

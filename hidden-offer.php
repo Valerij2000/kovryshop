@@ -1,6 +1,6 @@
 <?php 
-    function showOfferCardsHidden ($cards) {
-        for ($i = 1; $i <= $cards; $i++) { ?>
+    function showOfferCards ($cards) {
+        for ($i = 11; $i <= $cards; $i++) { ?>
         <div class="col-sm-6 col-lg-3 no-lr-padding">
             <div class="image"><img src="assets/img/offer-products/<?php echo $i.'.jpg'; ?>" alt="Product"></div>
             <div class="description">
@@ -21,4 +21,4 @@
         </div>
     <?php } } ?>
 
-    <?php showOfferCardsHidden(10); ?>
+    <?php showOfferCards(20); ?>
