@@ -355,17 +355,19 @@
                     <?php include ('hidden-offer.php'); ?>
                     </span>
 
-                    <div class="col-lg-12 padding text-center mb-3 mt-3 load-more_block">
-                        <a id="load-more">
-                            <span>Load More</span>
-                            <i class="fa fa-refresh" aria-hidden="true"></i>
-                        </a>
-                    </div>
-
                 </div>
             </section>
             <!-- / Featured Products -->
 
+            <!-- Load More -->
+            <section>
+                <div class="col-lg-12 padding text-center mb-3 mt-3 load-more_block">
+                    <a id="load-more">
+                        <span>Загрузить больше</span>
+                        <i class="fa fa-refresh" aria-hidden="true"></i>
+                    </a>
+                </div>
+            </section>            
             <!-- Product Slider -->
             <section class="gst-row wht-clr gst-cta row-cta ovh">
                 <div class="container theme-container">

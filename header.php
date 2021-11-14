@@ -28,6 +28,18 @@
                                 <nav>
                                     <div class="" id="primary-navigation">
                                         <ul class="nav navbar-nav primary-navbar">
+                                            <li class="dropdown">
+                                                <a href="https://www.instagram.com/valerij_shumkov" target="_blank"><i class="fa fa-instagram header-icon"></i></a>
+                                            </li>
+                                            <li class="dropdown">
+                                                <a href="https://vk.com/kovry_dorozhki_kovrolin_makeevka" target="_blank"><i class="fa fa-vk header-icon"></i></a>
+                                            </li>
+                                            <li class="dropdown">
+                                                <a href="https://www.google.com/maps/place/%D0%BF%D1%80%D0%BE%D1%81%D0%BF%D0%B5%D0%BA%D1%82+%D0%9B%D0%B5%D0%BD%D1%96%D0%BD%D0%B0,+121,+%D0%9C%D0%B0%D0%BA%D1%96%D1%97%D0%B2%D0%BA%D0%B0,+%D0%94%D0%BE%D0%BD%D0%B5%D1%86%D1%8C%D0%BA%D0%B0+%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C,+86100/@48.0589571,37.9619109,17z/data=!3m1!4b1!4m5!3m4!1s0x40e08eb82f4ed265:0x30a50f29a78b3ed3!8m2!3d48.0589571!4d37.9640996" target="_blank" id="address-header">г.Макеевка улица ленина 121</a>
+                                            </li>
+                                            <li class="dropdown">
+                                                <a href="tel:+380 71 407 44 74">+380 71 407 44 74</a>
+                                            </li>
                                             <li class="dropdown active">
                                                 <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" >Главная</a>
                                             </li>
