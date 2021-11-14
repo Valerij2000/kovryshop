@@ -810,7 +810,7 @@
     overflow: hidden;
 }
 .owl-carousel .owl-item img{
-    width: 100%;
+    width: auto !important;
     margin: auto;
 }
 .thumbnail-wrap .thumbnail-conten {
