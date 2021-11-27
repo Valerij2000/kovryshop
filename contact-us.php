@@ -66,17 +66,17 @@
                         <h5 class="funky-font-2">По всем интересующим вас вопросам заполните форму ниже.</h5>
                     </div>                  
                     <div class="cntct-frm  clearfix">
-                        <form id="contact-form" class="col-md-offset-2 no-padding col-md-8 col-sm-12">
+                        <form action="telegram.php" method="POST" id="contact-form" class="col-md-offset-2 no-padding col-md-8 col-sm-12">
                             <div class="form-group col-sm-12 form-alert"></div>
                             <div class="contact-form">
                                 <div class="form-group col-sm-6">
-                                    <input type="text" class="form-control name input-your-name" placeholder="Имя" name="cf_name" id="cf_name" value="" data-toggle="tooltip" data-placement="bottom"  title="Name is required">
+                                    <input type="text" class="form-control name input-your-name" placeholder="Имя" name="name" id="cf_name" value="" data-toggle="tooltip" data-placement="bottom"  title="Поле имени является обязательным" required oninvalid="this.setCustomValidity('Поле имени является обязательным')" oninput="setCustomValidity('')">
                                 </div>
                                 <div class="form-group col-sm-6">
-                                    <input type="text" class="form-control email input-email" placeholder="Email" name="cf_email" id="cf_email" value="" data-toggle="tooltip" data-placement="bottom"  title="Email is required">
+                                    <input type="text" class="form-control email input-email" placeholder="Телефон" name="phone" id="phone" value="" data-toggle="tooltip" data-placement="bottom"  title="Поле телефон является обязательным" required>
                                 </div>
                                 <div class="form-group col-sm-12">
-                                    <textarea class="form-control message input-message" rows="8" cols="10" placeholder="Ваше сообщение" name="cf_message" id="cf_message" data-toggle="tooltip" data-placement="top"  title="Message is required"></textarea>
+                                    <textarea class="form-control message input-message" rows="8" cols="10" placeholder="Ваше сообщение" name="message" id="cf_message" data-toggle="tooltip" data-placement="top"  title="Сообщение является обязательным полем" required oninvalid="this.setCustomValidity('Сообщение является обязательным полем')" oninput="setCustomValidity('')"></textarea>
                                 </div>
                             </div>
                             <div class="form-group col-sm-12 text-center">
@@ -152,7 +152,9 @@
         <div class="to-top" id="to-top"> <i class="fa fa-long-arrow-up"></i> </div>
 
         <!-- JS Global -->
-        <script src="assets/plugins/jquery/jquery-2.1.3.js"></script>  
+        <script src="assets/plugins/jquery/jquery-2.1.3.js"></script> 
+        <script type="text/javascript" src="assets/js/jquery.maskedinput.min.js"></script>
+        <script type="text/javascript">$(function() {$("#phone").mask("+38(999) 999-99-99");});</script> 
         <script src="assets/plugins/royalslider/jquery.royalslider.min.js"></script>
         <script src="assets/plugins/bootstrap/js/bootstrap.min.js"></script>
         <script src="assets/plugins/bootstrap-select-1.9.3/dist/js/bootstrap-select.min.js"></script>             

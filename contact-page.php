@@ -5,7 +5,7 @@
         <!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=edge"><![endif]-->
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>Ковры дорожки || 404 Страница не найдена</title>
+        <title> Контакты || страница контактной формы</title>
 
         <!-- Favicon -->
         <link rel="apple-touch-icon-precomposed" sizes="144x144" href="assets/ico/apple-touch-icon-144-precomposed.png">
@@ -33,16 +33,18 @@
        <![endif]-->
 
     </head>
+    
     <body class="blog">
-       <!-- HEADER -->
-       <?php include ('header.php'); ?>
-    <!-- / HEADER -->
+
+          <!-- HEADER -->
+          <?php include ('header.php'); ?>
+        <!-- / HEADER -->
 
         <!-- CONTENT + SIDEBAR -->
         <div class="main-wrapper clearfix">
             <div class="site-pagetitle jumbotron">
                 <div class="container  theme-container text-center">
-                    <h3 class="thm-clr">Упссс... <span class="thm-clr funky-font">нет такой страницы</span> </h3>
+                    <h3 class="thm-clr">Магазин <span class="thm-clr funky-font">ковров</span> </h3>
 
                     <!-- Breadcrumbs -->
                     <div class="breadcrumbs">
@@ -50,37 +52,35 @@
                             <i class="fa fa-home"></i>
                             <span><a href="index.php">Главная</a></span>
                             <i class="fa fa-arrow-circle-right"></i>
-                            <span class="current"> 404 Page </span>
+                            <span class="current">Контакты</span>
                         </div>
                     </div>
                 </div>
             </div>
 
-            <div class="theme-container container">
-                
-                <!-- Error Starts -->
-                <div class="error-wrap text-center spc-60">
-                    <img src="assets/img/extra/error.png" alt="">
-                    <h2 class="title-3 spc-15"> error - not found </h2>
-                    <p class="size-16 spc-30">Кажется, мы не можем найти то, что вы ищете. Возможно, вам поможет поиск или вернитесь на - <a href="index.php" class="blue-color"> Главную страницу. </a> </p>
-                    <form class="error-search">
-                        <div class="form-group">                                                   
-                            <input type="text" class="form-control text" placeholder="Search again...">
-                            <button class="form-control submit-btn"><i class="fa fa-search fsz-14"></i></button>                                                  
-                        </div>
-                    </form>       
+            <!-- Contact Us Start -->
+            <section class="gst-row"  id="contact-us">                 
+                <div class="container theme-container">
+                    <div class="fancy-heading text-center">
+                        <h3>Спасибо что заполнили форму!</h3>
+                        <h5 class="funky-font-2">Менеджер ответит вам в скором времени, ожидайте!</h5>
+                    </div>                  
                 </div>
-                <!-- / Error Ends -->
-             
-            </div>
+            </section>
+            <!-- / Contact Us Ends -->
+
+            <!-- Map Starts-->
+            <section class="map">
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5333.330653309354!2d37.95896048607822!3d48.05879932172163!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40e08eb82f4ed265%3A0x30a50f29a78b3ed3!2z0L_RgNC-0YHQvy4g0JvQtdC90LjQvdCwLCAxMjEsINCc0LDQutC10LXQstC60LAsINCU0L7QvdC10YbQutCw0Y8g0L7QsdC70LDRgdGC0YwsIDg2MTAw!5e0!3m2!1sru!2sua!4v1616970949457!5m2!1sru!2sua" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+            </section>
+            <!-- / Map Ends -->
+
 
             <div class="clear"></div>
         </div>
-        <!-- / CONTENT + SIDEBAR -->
 
-       <!-- FOOTER -->
-       <?php include ('footer.php'); ?>
-       <!-- / FOOTER -->
+        <!-- FOOTER -->
+          <?php include ('footer.php'); ?>
 
         <!-- Search Popup -->
         <div class="popup-box page-search-box">
@@ -94,6 +94,39 @@
             <a href="javascript:void(0)" class="close-popup-box close-page-search"><i class="fa fa-close"></i></a>
         </div>
         <!-- / Search Popup -->
+
+        <!-- Popup: Login 1 -->
+        <div class="modal fade login-popup" id="login-popup" tabindex="-1" role="dialog" aria-hidden="true">
+            <div class="modal-dialog modal-lg">                
+                <button type="button" class="close close-btn popup-cls" data-dismiss="modal" aria-label="Close"> <i class="fa-times fa"></i> </button>
+
+                <div class="modal-content login-1 wht-clr">   
+                    <div class="login-wrap text-center">                        
+                        <h2 class="fsz-35 spcbtm-15"> <span class="bold-font-3 wht-clr">GoShop</span> <span class="thm-clr funky-font">fashion</span> </h2>
+                        <p class="fsz-20 title-3"> WELCOME TO OUR  WONDERFUL WORLD </p>
+                        <p class="fsz-15 bold-font-4"> Did you know that we ship to over <span class="thm-clr"> 24 different countries </span> </p>                       
+
+                        <div class="login-form">
+                            <a class="fb-btn btn spcbtm-15" href="#"> <i class="fa fa-facebook btn-icon"></i>Login with Facebook </a>
+
+                            <p class="bold-font-2 fsz-12 signup"> OR SIGN UP </p>
+
+                            <form class="login">
+                                <div class="form-group"><input type="text" placeholder="Email" class="form-control"></div>
+                                <div class="form-group"><input type="text" placeholder="Password" class="form-control"></div>
+                                <div class="form-group">
+                                    <button class="alt fancy-button" type="submit"> <span class="fa fa-lightbulb-o"></span> Login</button>
+                                </div>
+                            </form>
+
+                            <p>* Denotes mandatory field.</p>
+                            <p>** At least one telephone number is required.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- /Popup: Login 1 --> 
 
         <!-- Top -->
         <div class="to-top" id="to-top"> <i class="fa fa-long-arrow-up"></i> </div>
@@ -110,5 +143,6 @@
         <!-- Page JS -->      
         <script src="assets/js/jquery.sticky.js"></script>
         <script src="assets/js/custom.js"></script>
+        <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&amp;sensor=false"></script>
     </body>
 </html>

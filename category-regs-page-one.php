@@ -169,7 +169,7 @@
                                                     <p class="font-3">Price: <span class="thm-clr"><?php echo 5 + mt_rand(5, 15); ?>000р. </span> </p>    
                                                     <p class="font-3"> В наличии<span class="grn-clr"> Есть </span>  </p>
                                                     <p>   </p>
-                                                    <a class="fancy-btn fancy-btn-small" href="single-product.html">Add to Cart</a>
+                                                    <a class="fancy-btn fancy-btn-small" href="index.php">Add to Cart</a>
                                                 </div>
                                             </div>
                                         </div>
@@ -201,7 +201,7 @@
                                                     <p class="font-3">Price: <span class="thm-clr"><?php echo 5 + mt_rand(5, 15); ?>000р. </span> </p>    
                                                     <p class="font-3"> В наличии<span class="red-clr"> Нет </span>  </p>
                                                     <p>   </p>
-                                                    <a class="fancy-btn fancy-btn-small" href="single-product.html">Add to Cart</a>
+                                                    <a class="fancy-btn fancy-btn-small" href="index.php">Add to Cart</a>
                                                 </div>
                                             </div>
                                         </div>
@@ -233,7 +233,7 @@
                                                     <p class="font-3">Price: <span class="thm-clr"><?php echo 5 + mt_rand(5, 15); ?>000р. </span> </p>    
                                                     <p class="font-3"> В наличии<span class="grn-clr"> Есть </span>  </p>
                                                     <p>   </p>
-                                                    <a class="fancy-btn fancy-btn-small" href="single-product.html">Add to Cart</a>
+                                                    <a class="fancy-btn fancy-btn-small" href="index.php">Add to Cart</a>
                                                 </div>
                                             </div>
                                         </div>
@@ -266,7 +266,7 @@
                                                     <p class="font-3">Price: <span class="thm-clr"><?php echo 5 + mt_rand(5, 15); ?>000р. </span> </p>    
                                                     <p class="font-3"> В наличии<span class="grn-clr"> Есть </span>  </p>
                                                     <p>   </p>
-                                                    <a class="fancy-btn fancy-btn-small" href="single-product.html">Add to Cart</a>
+                                                    <a class="fancy-btn fancy-btn-small" href="index.php">Add to Cart</a>
                                                 </div>
                                             </div>
                                         </div>
