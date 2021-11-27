@@ -6,6 +6,10 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
         <title> Контакты || страница контактной формы</title>
+        
+        <!-- Google Analytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-K7D29G9X6T"></script>
+        <script src="assets/js/googleAnalytics.js"></script>
 
         <!-- Favicon -->
         <link rel="apple-touch-icon-precomposed" sizes="144x144" href="assets/ico/apple-touch-icon-144-precomposed.png">

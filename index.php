@@ -7,6 +7,10 @@
 
         <title> Ковры дорожки ковролин</title>
 
+        <!-- Google Analytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-K7D29G9X6T"></script>
+        <script src="assets/js/googleAnalytics.js"></script>
+
         <!-- Favicon -->
         <link rel="apple-touch-icon-precomposed" sizes="144x144" href="assets/ico/apple-touch-icon-144-precomposed.png">
         <link rel="shortcut icon" href="assets/ico/favicon.ico">
@@ -1513,8 +1517,7 @@
         <script src="assets/plugins/malihu-custom-scrollbar-plugin-master/jquery.mCustomScrollbar.concat.min.js"></script> 
 
         <script src="assets/plugins/isotope-master/dist/isotope.pkgd.min.js"></script>        
-        <script src="assets/plugins/subscribe-better-master/jquery.subscribe-better.min.js"></script> 
-        
+        <script src="assets/plugins/subscribe-better-master/jquery.subscribe-better.min.js"></script>     
         <!-- fotorama -->
 
         <script src="https://cdnjs.cloudflare.com/ajax/libs/fotorama/4.6.4/fotorama.js"></script>
