@@ -1,0 +1,7 @@
+User-agent: Googlebot
+User-agent: *
+Disallow: 
+Host: kovry-makeevka.ru
+Host:kovry-makeevka.ru
+Host: kovry-makeevka.ru
+Sitemap: http://kovry-makeevka.ru/sitemap.xml
