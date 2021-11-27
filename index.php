@@ -86,6 +86,26 @@
             </div>
             <!-- / Main Slider -->
 
+            <!-- Contact Info --> 
+            <section class="gst-row our-address">
+                <div class="container theme-container">
+                    <div class="col-md-8 col-md-offset-2 col-sm-10 col-sm-offset-1 add-wrap">
+                        <div class=" text-center">
+                            <h2 class="fsz-35"> <span class="bold-font-3 wht-clr">Ковры </span> <span class="thm-clr funky-font">дорожки</span> </h2>
+                            <a href="https://www.instagram.com/valerij_shumkov" target="_blank"><i class="fa fa-instagram custom-icon"></i></a>
+                            <a href="https://vk.com/kovry_dorozhki_kovrolin_makeevka" target="_blank"><i class="fa fa-vk custom-icon"></i></a>
+                            <div class="fancy-heading text-center">
+                                <h2 class="title-2">часы работы</h2>                           
+                            </div>
+                            <p>Вторник - Воскресенье с 10.00 - 17.00 </p>
+                            <a class="fancy-btn fancy-btn-big fsz-20" style="cursor: pointer; margin-top: 12px; margin-bottom: 22px;" href="tel:+380 71 407 44 74">Позвоните нам</a>
+                            <p class="thm-clr">Понедельник - Выходной</p>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <!-- /Contact Info -->
+
             <!-- Banner -->
             <section class="banner clear">
                 <div class="col-lg-4 col-md-4 col-sm-12 no-padding promo-wrap">
@@ -379,14 +399,7 @@
 
                         <div class="col-md-5 col-sm-12 col-xs-12 text-left gst-cta-buttons">
                             <a target="https://vk.com/kovry_dorozhki_kovrolin_makeevka" href="https://vk.com/kovry_dorozhki_kovrolin_makeevka" class="fancy-btn-alt fancy-btn-big fsz-25">VKontakte</a>
-                           
-                         
-
-                            
                                 <a class="fancy-btn fancy-btn-big fsz-20" style="cursor: pointer; margin-top: 12px;" href="tel:+380 71 407 44 74">Позвоните нам</a>
-                         
-                          
-
                         </div>
                     </div>
                 </div>
@@ -523,6 +536,7 @@
                                 <h2 class="title-2">часы работы</h2>                           
                             </div>
                             <p>Вторник - Воскресенье с 10.00 - 17.00 </p>
+                            <a class="fancy-btn fancy-btn-big fsz-20" style="cursor: pointer; margin-top: 12px; margin-bottom: 22px;" href="tel:+380 71 407 44 74">Позвоните нам</a>
                             <p class="thm-clr">Понедельник - Выходной</p>
                         </div>
                     </div>
