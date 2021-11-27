@@ -651,7 +651,7 @@
                                         </div>
                                         <div class="col-sm-6">
                                             <div class="form-group">
-                                                <button type="submit" class="single_add_to_cart_button button alt fancy-button left">Add to cart</button>
+                                                <button type="submit" class="single_add_to_cart_button button alt fancy-button left">Посмотреть</button>
                                             </div>    
                                         </div>
                                     </div>
@@ -763,7 +763,7 @@
                                 </div>
                                 <div class="col-sm-6">
                                     <div class="form-group">
-                                        <button type="submit" class="single_add_to_cart_button button alt fancy-button left">Add to cart</button>
+                                        <button type="submit" class="single_add_to_cart_button button alt fancy-button left">Посмотреть</button>
                                     </div>    
                                 </div>
                             </div>
@@ -875,7 +875,7 @@
                                 </div>
                                 <div class="col-sm-6">
                                     <div class="form-group">
-                                        <button type="submit" class="single_add_to_cart_button button alt fancy-button left">Add to cart</button>
+                                        <button type="submit" class="single_add_to_cart_button button alt fancy-button left">Посмотреть</button>
                                     </div>    
                                 </div>
                             </div>
@@ -988,7 +988,7 @@
                                 </div>
                                 <div class="col-sm-6">
                                     <div class="form-group">
-                                        <button type="submit" class="single_add_to_cart_button button alt fancy-button left">Add to cart</button>
+                                        <button type="submit" class="single_add_to_cart_button button alt fancy-button left">Посмотреть</button>
                                     </div>    
                                 </div>
                             </div>
@@ -1101,7 +1101,7 @@
                                 </div>
                                 <div class="col-sm-6">
                                     <div class="form-group">
-                                        <button type="submit" class="single_add_to_cart_button button alt fancy-button left">Add to cart</button>
+                                        <button type="submit" class="single_add_to_cart_button button alt fancy-button left">Посмотреть</button>
                                     </div>    
                                 </div>
                             </div>
@@ -1212,7 +1212,7 @@
                                 </div>
                                 <div class="col-sm-6">
                                     <div class="form-group">
-                                        <button type="submit" class="single_add_to_cart_button button alt fancy-button left">Add to cart</button>
+                                        <button type="submit" class="single_add_to_cart_button button alt fancy-button left">Посмотреть</button>
                                     </div>    
                                 </div>
                             </div>
@@ -1325,7 +1325,7 @@
                                 </div>
                                 <div class="col-sm-6">
                                     <div class="form-group">
-                                        <button type="submit" class="single_add_to_cart_button button alt fancy-button left">Add to cart</button>
+                                        <button type="submit" class="single_add_to_cart_button button alt fancy-button left">Посмотреть</button>
                                     </div>    
                                 </div>
                             </div>
@@ -1438,7 +1438,7 @@
                                 </div>
                                 <div class="col-sm-6">
                                     <div class="form-group">
-                                        <button type="submit" class="single_add_to_cart_button button alt fancy-button left">Add to cart</button>
+                                        <button type="submit" class="single_add_to_cart_button button alt fancy-button left">Посмотреть</button>
                                     </div>    
                                 </div>
                             </div>

@@ -91,7 +91,7 @@
                         </form>
                     </div>
 
-                    <div class="col-lg-4 col-sm-4 woocommerce-result-count">  SHOW 24 ITEMS TOTAL OF 120 ITEMS </div>
+                    <div class="col-lg-4 col-sm-4 woocommerce-result-count">Более 24 видов ковров из новой коллекции</div>
 
                 </div>
                 <div class="tab-content">
@@ -171,7 +171,7 @@
                                             <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc condimentum eros idoni
                                                 rutrum fermentum. Proin nec felis dui. Vestibulum ante ipsum primis in faucibus orci
                                                 luctus et ultrices posuere cubilia Curae.</p>
-                                            <a class="fancy-btn fancy-btn-small" href="index.php">Add to Cart</a>
+                                            <a class="fancy-btn fancy-btn-small" href="index.php">Посмотреть</a>
                                         </div>
                                     </div>
                                 </div>
@@ -205,7 +205,7 @@
                                             <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc condimentum eros idoni
                                                 rutrum fermentum. Proin nec felis dui. Vestibulum ante ipsum primis in faucibus orci
                                                 luctus et ultrices posuere cubilia Curae.</p>
-                                            <a class="fancy-btn fancy-btn-small" href="index.php">Add to Cart</a>
+                                            <a class="fancy-btn fancy-btn-small" href="index.php">Посмотреть</a>
                                         </div>
                                     </div>
                                 </div>
@@ -239,7 +239,7 @@
                                             <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc condimentum eros idoni
                                                 rutrum fermentum. Proin nec felis dui. Vestibulum ante ipsum primis in faucibus orci
                                                 luctus et ultrices posuere cubilia Curae.</p>
-                                            <a class="fancy-btn fancy-btn-small" href="index.php">Add to Cart</a>
+                                            <a class="fancy-btn fancy-btn-small" href="index.php">Посмотреть</a>
                                         </div>
                                     </div>
                                 </div>
@@ -274,7 +274,7 @@
                                             <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc condimentum eros idoni
                                                 rutrum fermentum. Proin nec felis dui. Vestibulum ante ipsum primis in faucibus orci
                                                 luctus et ultrices posuere cubilia Curae.</p>
-                                            <a class="fancy-btn fancy-btn-small" href="index.php">Add to Cart</a>
+                                            <a class="fancy-btn fancy-btn-small" href="index.php">Посмотреть</a>
                                         </div>
                                     </div>
                                 </div>
@@ -399,7 +399,7 @@
                                         </div>
                                         <div class="col-sm-6">
                                             <div class="form-group">
-                                                <button type="submit" class="single_add_to_cart_button button alt fancy-button left">Add to cart</button>
+                                                <button type="submit" class="single_add_to_cart_button button alt fancy-button left">Посмотреть</button>
                                             </div>    
                                         </div>
                                     </div>
