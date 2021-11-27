@@ -44,7 +44,7 @@
         <div class="main-wrapper clearfix">
             <div class="site-pagetitle jumbotron">
                 <div class="container  theme-container text-center">
-                    <h3>Kovryshop</h3>
+                    <h3 class="thm-clr">Магазин <span class="thm-clr funky-font">ковров</span> </h3>
 
                     <!-- Breadcrumbs -->
                     <div class="breadcrumbs">
@@ -62,25 +62,25 @@
             <section class="gst-row"  id="contact-us">                 
                 <div class="container theme-container">
                     <div class="fancy-heading text-center">
-                        <h3>Contact Us</h3>
-                        <h5 class="funky-font-2">Curabitur nec scelerisque nulla, non pharetra sapien.</h5>
+                        <h3>Контактная форма</h3>
+                        <h5 class="funky-font-2">По всем интересующим вас вопросам заполните форму ниже.</h5>
                     </div>                  
                     <div class="cntct-frm  clearfix">
                         <form id="contact-form" class="col-md-offset-2 no-padding col-md-8 col-sm-12">
                             <div class="form-group col-sm-12 form-alert"></div>
                             <div class="contact-form">
                                 <div class="form-group col-sm-6">
-                                    <input type="text" class="form-control name input-your-name" placeholder="Your Name" name="cf_name" id="cf_name" value="" data-toggle="tooltip" data-placement="bottom"  title="Name is required">
+                                    <input type="text" class="form-control name input-your-name" placeholder="Имя" name="cf_name" id="cf_name" value="" data-toggle="tooltip" data-placement="bottom"  title="Name is required">
                                 </div>
                                 <div class="form-group col-sm-6">
-                                    <input type="text" class="form-control email input-email" placeholder="Email Address" name="cf_email" id="cf_email" value="" data-toggle="tooltip" data-placement="bottom"  title="Email is required">
+                                    <input type="text" class="form-control email input-email" placeholder="Email" name="cf_email" id="cf_email" value="" data-toggle="tooltip" data-placement="bottom"  title="Email is required">
                                 </div>
                                 <div class="form-group col-sm-12">
-                                    <textarea class="form-control message input-message" rows="8" cols="10" placeholder="Your Massage" name="cf_message" id="cf_message" data-toggle="tooltip" data-placement="top"  title="Message is required"></textarea>
+                                    <textarea class="form-control message input-message" rows="8" cols="10" placeholder="Ваше сообщение" name="cf_message" id="cf_message" data-toggle="tooltip" data-placement="top"  title="Message is required"></textarea>
                                 </div>
                             </div>
                             <div class="form-group col-sm-12 text-center">
-                                <button type="submit" class="alt fancy-button">Send Now</button>
+                                <button type="submit" class="alt fancy-button">Отправить</button>
                             </div>
                         </form>
                     </div>
