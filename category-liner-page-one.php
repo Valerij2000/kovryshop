@@ -146,7 +146,7 @@
                                 <div class="portfolio-wrapper">
                                     <div class="col-md-3 col-sm-5">
                                         <div class="portfolio-thumb">
-                                            <img src="assets/img/products/cat-1.jpg" alt="">
+                                            <img src="assets/img/offer-products/4.jpg" alt="">
                                             <div class="portfolio-content">
                                                 <div class="pop-up-icon">
                                                     <a class="center-link" href="#product-preview" data-toggle="modal"><i class="fa fa-search"></i></a>
@@ -180,7 +180,7 @@
                                 <div class="portfolio-wrapper">
                                     <div class="col-md-3 col-sm-5">
                                         <div class="portfolio-thumb">
-                                            <img src="assets/img/products/cat-2.jpg" alt="">
+                                            <img src="assets/img/offer-products/11.jpg" alt="">
                                             <div class="portfolio-content">
                                                 <div class="pop-up-icon">
                                                     <a class="center-link" href="#product-preview" data-toggle="modal"><i class="fa fa-search"></i></a>
@@ -214,7 +214,7 @@
                                 <div class="portfolio-wrapper">
                                     <div class="col-md-3 col-sm-5">
                                         <div class="portfolio-thumb">
-                                            <img src="assets/img/products/cat-3.jpg" alt="">
+                                            <img src="assets/img/offer-products/7.jpg" alt="">
                                             <div class="portfolio-content">
                                                 <div class="pop-up-icon">
                                                     <a class="center-link" href="#product-preview" data-toggle="modal"><i class="fa fa-search"></i></a>
@@ -249,7 +249,7 @@
                                 <div class="portfolio-wrapper">
                                     <div class="col-md-3 col-sm-5">
                                         <div class="portfolio-thumb">
-                                            <img src="assets/img/products/cat-4.jpg" alt="">
+                                            <img src="assets/img/offer-products/18.jpg" alt="">
                                             <div class="portfolio-content">
                                                 <div class="pop-up-icon">
                                                     <a class="center-link" href="#product-preview" data-toggle="modal"><i class="fa fa-search"></i></a>
