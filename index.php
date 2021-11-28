@@ -580,19 +580,7 @@
                         <div class="spc-15 hidden-lg clear"></div>
                         <div class=" col-sm-12 col-lg-6 col-xs-12">
                             <div class="summary entry-summary">
-                                <div class="woocommerce-product-rating" itemprop="aggregateRating" itemscope itemtype="http://schema.org/AggregateRating">
-                                    <div class="rating"> 
-                                        <span class="star active"></span>
-                                        <span class="star active"></span>
-                                        <span class="star active"></span>                                           
-                                        <span class="star active"></span>
-                                        <span class="star half"></span>
-                                    </div>
-
-                                    <div  class="posted_in">
-                                        <h3 class="funky-font-2 fsz-20">Exclusive Collection</h3>
-                                    </div>
-                                </div>
+                                
 
                                 <div class="product_title_wrapper">
                                     <div itemprop="name" class="product_title entry-title">
