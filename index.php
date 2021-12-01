@@ -46,6 +46,9 @@
        <script src="assets/plugins/iesupport/respond.js"></script>
        <![endif]-->
 
+        <!-- ChatBot JS --> 
+        <script src="//code-ya.jivosite.com/widget/7W35upS5fD" async></script>
+
     </head>
 
     <body class="home page">
@@ -1440,7 +1443,7 @@
             $('#load-more').on('click', () => {
                 $('.hidden_block').css("display", "block");
             })
-        </script>
+        </script>    
 
     </body>
 </html>

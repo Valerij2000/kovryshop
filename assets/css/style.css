@@ -5246,7 +5246,7 @@ a.compare-add-to-cart:hover, a.compare-add-to-cart:focus{
     height: 35px;
     line-height: 35px;
     position: fixed;
-    right: 3%;  
+    left: 3%;  
     margin: auto;
     text-align: center;
     width: 40px;
