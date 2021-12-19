@@ -103,7 +103,7 @@
                     <div class="col-md-8 col-md-offset-2 col-sm-10 col-sm-offset-1 add-wrap">
                         <div class=" text-center">
                             <h2 class="fsz-35"> <span class="bold-font-3 wht-clr">Ковры </span> <span class="thm-clr funky-font">дорожки</span> </h2>
-                            <a href="https://www.instagram.com/valerij_shumkov" target="_blank"><i class="fa fa-instagram custom-icon"></i></a>
+                            <a href="https://www.instagram.com/kovry_super" target="_blank"><i class="fa fa-instagram custom-icon"></i></a>
                             <a href="https://vk.com/kovry_dorozhki_kovrolin_makeevka" target="_blank"><i class="fa fa-vk custom-icon"></i></a>
                             <div class="fancy-heading text-center">
                                 <h2 class="title-2">часы работы</h2>                           
@@ -541,7 +541,7 @@
                     <div class="col-md-8 col-md-offset-2 col-sm-10 col-sm-offset-1 add-wrap">
                         <div class=" text-center">
                             <h2 class="fsz-35"> <span class="bold-font-3 wht-clr">Ковры </span> <span class="thm-clr funky-font">дорожки</span> </h2>
-                            <a href="https://www.instagram.com/valerij_shumkov" target="_blank"><i class="fa fa-instagram custom-icon"></i></a>
+                            <a href="https://www.instagram.com/kovry_super" target="_blank"><i class="fa fa-instagram custom-icon"></i></a>
                             <a href="https://vk.com/kovry_dorozhki_kovrolin_makeevka" target="_blank"><i class="fa fa-vk custom-icon"></i></a>
                             <div class="fancy-heading text-center">
                                 <h2 class="title-2">часы работы</h2>                           

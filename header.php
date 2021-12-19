@@ -29,7 +29,7 @@
                                     <div class="" id="primary-navigation">
                                         <ul class="nav navbar-nav primary-navbar">
                                             <li class="dropdown">
-                                                <a href="https://www.instagram.com/valerij_shumkov" target="_blank"><i class="fa fa-instagram header-icon"></i></a>
+                                                <a href="https://www.instagram.com/kovry_super" target="_blank"><i class="fa fa-instagram header-icon"></i></a>
                                             </li>
                                             <li class="dropdown">
                                                 <a href="https://vk.com/kovry_dorozhki_kovrolin_makeevka" target="_blank"><i class="fa fa-vk header-icon"></i></a>
