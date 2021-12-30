@@ -109,7 +109,7 @@
                                 <h2 class="title-2">часы работы</h2>                           
                             </div>
                             <p>Вторник - Воскресенье с 10.00 - 17.00 </p>
-                            <a class="fancy-btn fancy-btn-big fsz-20" style="cursor: pointer; margin-top: 12px; margin-bottom: 22px;" href="tel:+380 71 407 44 74">Позвоните нам</a>
+                            <a class="fancy-btn fancy-btn-big fsz-20" style="cursor: pointer; margin-top: 12px; margin-bottom: 22px;" href="tel:+380 71 407 44 80">Позвоните нам</a>
                             <p class="thm-clr">Понедельник - Выходной</p>
                         </div>
                     </div>
@@ -410,7 +410,7 @@
 
                         <div class="col-md-5 col-sm-12 col-xs-12 text-left gst-cta-buttons">
                             <a target="https://vk.com/kovry_dorozhki_kovrolin_makeevka" href="https://vk.com/kovry_dorozhki_kovrolin_makeevka" class="fancy-btn-alt fancy-btn-big fsz-25">VKontakte</a>
-                                <a class="fancy-btn fancy-btn-big fsz-20" style="cursor: pointer; margin-top: 12px;" href="tel:+380 71 407 44 74">Позвоните нам</a>
+                                <a class="fancy-btn fancy-btn-big fsz-20" style="cursor: pointer; margin-top: 12px;" href="tel:+380 71 407 44 80">Позвоните нам</a>
                         </div>
                     </div>
                 </div>
@@ -547,7 +547,7 @@
                                 <h2 class="title-2">часы работы</h2>                           
                             </div>
                             <p>Вторник - Воскресенье с 10.00 - 17.00 </p>
-                            <a class="fancy-btn fancy-btn-big fsz-20" style="cursor: pointer; margin-top: 12px; margin-bottom: 22px;" href="tel:+380 71 407 44 74">Позвоните нам</a>
+                            <a class="fancy-btn fancy-btn-big fsz-20" style="cursor: pointer; margin-top: 12px; margin-bottom: 22px;" href="tel:+380 71 407 44 80">Позвоните нам</a>
                             <p class="thm-clr">Понедельник - Выходной</p>
                         </div>
                     </div>
