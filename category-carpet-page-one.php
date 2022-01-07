@@ -83,24 +83,7 @@
                                 </a>
                             </li>
                         </ul>
-                        <form action="#" class="sorting-form">
-                            <div class="search-selectpicker selectpicker-wrapper">
-                                <select
-                                    class="selectpicker input-price" data-live-search="true" data-width="100%"
-                                    data-toggle="tooltip" title="Sort By">
-                                    <option value="popularity">Sort by popularity</option>
-                                    <option value="rating">Sort by average rating</option>
-                                    <option value="date">Sort by newness</option>
-                                    <option value="price">Sort by price: low to high</option>
-                                    <option value="price-desc">Sort by price: high to low</option>
-                                </select>
-                            </div>
-                        </form>
                     </div>
-
-                    <div class="col-lg-4 col-sm-4 woocommerce-result-count">Более 24 видов ковров из новой коллекции</div>
-
-
                 </div>
 
                 <div class="tab-content">

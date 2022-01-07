@@ -2373,13 +2373,6 @@ input.search-query {
 .nav-tabs > li {
     margin-bottom: 0;
 }
-.sorter .sorting-form {
-    display: inline-block;
-    margin-left: 10px;
-    vertical-align: middle;
-    width: 65%;
-    margin-left: 8px;
-}
 
 /* / Sorting */
 
@@ -5392,9 +5385,6 @@ a.compare-add-to-cart:hover, a.compare-add-to-cart:focus{
         display: inline-block;
         margin-top: 15px;
         float: none;
-    }
-    .sorter .sorting-form{
-        width: 55%;
     }
 
     /*Cart Page*/
