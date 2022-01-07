@@ -83,12 +83,11 @@
                     </div>
                 </div>
                 <div class="gst-slide">
-                    <img src="https://www.keramis.com.ua/wa-data/public/blog/img/kak-vybrat-kovrolin-2.jpg" alt=""/>
+                    <img class="img-fluid" src="assets/img/catalog/05.jpeg" alt=""/>
                     <div class="gst-caption container theme-container">
                         <div>
                             <div class="caption-right">
                                 <h2>Ковровые покрытия <span class="thm-clr">Ковролин</span></h2>
-                                <p class="lgt-gry hidden-xs">Ковровые покрытия без добавления клея и синтетических веществ, только натуральный шелк.</p>
                                 <a class="fancy-btn-alt fsz-16" href="category-liner.php">Посмотреть каталог</a>
                             </div>
                         </div>  
