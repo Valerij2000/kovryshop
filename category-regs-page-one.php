@@ -348,58 +348,6 @@
                                     <li> <strong> Материал : <span class="blk-clr"> Рюрикс, поливискоза, шерсть, акрил </span> </strong> </li>
                                     <li> <strong>  В наличии : <span class="blk-clr"> Есть </span> </strong> </li>
                                 </ul>
-
-                                <form class="variations_form cart" method="post">
-                                    <div class="row">
-                                        <div class="col-sm-4">
-                                            <div class="form-group selectpicker-wrapper">
-                                                <label class="fsz-15 title-3"> <b> CHOOSE COLOR </b> </label>
-                                                <div class="search-selectpicker selectpicker-wrapper">
-                                                    <select
-                                                        class="selectpicker input-price" data-live-search="true" data-width="100%"
-                                                        data-toggle="tooltip" title="White">
-                                                        <option>Pink</option>
-                                                        <option>Blue</option>
-                                                        <option>White</option>
-                                                    </select>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="col-sm-4">
-                                            <div class="form-group selectpicker-wrapper">
-                                                <label class="fsz-15 title-3"> <b> CHOOSE SIZE </b> </label>
-                                                <div class="search-selectpicker selectpicker-wrapper">
-                                                    <select
-                                                        class="selectpicker input-price" data-live-search="true" data-width="100%"
-                                                        data-toggle="tooltip" title="Large">
-                                                        <option>Small</option>
-                                                        <option>Medium</option>
-                                                        <option>Large</option>
-                                                    </select>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="col-sm-4">
-                                            <div class="form-group selectpicker-wrapper">
-                                                <label class="fsz-15 title-3"> <b> QUANTITY </b> </label>
-                                                <div class="search-selectpicker selectpicker-wrapper">
-                                                    <select
-                                                        class="selectpicker input-price" data-live-search="true" data-width="100%"
-                                                        data-toggle="tooltip" title="2 Pcs">
-                                                        <option>1 Pcs</option>
-                                                        <option>2 Pcs</option>
-                                                        <option>3 Pcs</option>
-                                                    </select>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="col-sm-6">
-                                            <div class="form-group">
-                                                <button type="submit" class="single_add_to_cart_button button alt fancy-button left">Посмотреть</button>
-                                            </div>    
-                                        </div>
-                                    </div>
-                                </form>
                             </div><!-- .summary -->
                         </div>  
                     </div>

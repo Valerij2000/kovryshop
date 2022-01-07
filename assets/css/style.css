@@ -2307,7 +2307,7 @@ input.search-query {
     transform: scale(1);
 }
 .product-media {
-    padding: 50px 0 20px;
+    padding: 0 0 20px;
     transform: scale(0.7);
 }
 .products-wrap > .fancy-btn {
@@ -3629,7 +3629,6 @@ form .required {
 .fancy-heading {
     position: relative;
     padding-top: 25px;
-    margin-bottom: 40px;
 }
 
 .fancy-heading h3 {
