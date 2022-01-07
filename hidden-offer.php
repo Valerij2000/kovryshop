@@ -21,4 +21,4 @@
         </div>
     <?php } } ?>
 
-    <?php showOfferCards(20); ?>
+    <?php showOfferCards(43); ?>
