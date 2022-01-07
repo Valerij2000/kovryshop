@@ -4475,11 +4475,13 @@ form .required {
     max-width: 41%;
 }
 
-.special-offers .product .image img {
-    display: block;
-    margin: auto;
-    width: 100%;
-    height: 150px;
+@media (min-width: 768px) {
+    .special-offers .product .image img {
+        display: block;
+        margin: auto;
+        width: 100%;
+        height: 150px;
+    }
 }
 
 .special-offers .product p {

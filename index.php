@@ -460,16 +460,15 @@
                     <div class="fancy-heading text-center spcbtm-15">
                         <h3>Специальные предложения</h3>
                         <h5 class="funky-font-2">уникальные цены только в этом месяце
-
                         </h5>
                     </div>
                     <div class="special-offers row">
                         <div class="col-sm-6 col-lg-4">
                             <div class="product">
-                                <div class="image"><a href="#"><img src="https://images.ua.prom.st/1892511481_w640_h640_kover-moretti-turin.jpg" alt="Product"></a></div>
+                                <div class="image"><a href="#buy-modal" data-toggle="modal"><img src="assets/img/offer-products/27.jpg" alt="Product"></a></div>
                                 <div class="right">
                                     <p class="funky-font-2"></p>
-                                    <div class="name"><a href="#"> Carpet  & Turkey <i class="fa fa-flag"></i></a></div>
+                                    <div class="name"><a href="#buy-modal" data-toggle="modal"> Carpet  & Turkey <i class="fa fa-flag"></i></a></div>
                                     <div class="Цена font-2">Цена: <span class="Цена-new">12 000 р.</span> <span class="Цена-old"></span></div>
                                 </div>
                             </div>
@@ -477,21 +476,21 @@
 
                         <div class="col-sm-6 col-lg-4">
                             <div class="product">
-                                <div class="image"><a href="#"><img src="https://images.ua.prom.st/1892515308_w640_h640_kover-moretti-turin.jpg" alt="Product"></a></div>
+                                <div class="image"><a href="#buy-modal" data-toggle="modal"><img src="assets/img/offer-products/37.jpg" alt="Product"></a></div>
                                 <div class="right">
                                     <p class="funky-font-2"></p>
-                                    <div class="name"><a href="#">Astana & Florencia</a></div>
-                                    <div class="Цена font-2">Цена: <span class="Цена-new">15 000 р.</span> <span class="Цена-old"></span></div>
+                                    <div class="name"><a href="#buy-modal" data-toggle="modal">Дорожка "Принт"</a></div>
+                                    <div class="Цена font-2">Цена: <span class="Цена-new">5 000 р.</span> <span class="Цена-old"></span></div>
                                 </div>
                             </div>
                         </div>
 
                         <div class="col-sm-6 col-lg-4">
                             <div class="product">
-                                <div class="image"><a href="#"><img src="https://cdn2.riastatic.com/photosnew/general/adv_photos/home-textil-kover-karat-gold-323-123-1-60x2-25-m-ovalnyy-bezhevyy__112212225m.jpg" alt="Product"></a></div>
+                                <div class="image"><a href="#buy-modal" data-toggle="modal"><img src="assets/img/offer-products/20.jpg" alt="Product"></a></div>
                                 <div class="right">
                                     <p class="funky-font-2"></p>
-                                    <div class="name"><a href="#"> Carpet  & Turkey <i class="fa fa-flag"></i></a></div>
+                                    <div class="name"><a href="#buy-modal" data-toggle="modal"> Carpet  & Turkey <i class="fa fa-flag"></i></a></div>
                                     <div class="Цена font-2">Цена: <span class="Цена-new">16 000 р.</span> <span class="Цена-old"></span></div>
                                 </div>
                             </div>
@@ -499,10 +498,10 @@
 
                         <div class="col-sm-6 col-lg-4">
                             <div class="product">
-                                <div class="image"><a href="#"><img src="https://images.ua.prom.st/761498510_kover-na-pol.jpg" alt="Product"></a></div>
+                                <div class="image"><a href="#buy-modal" data-toggle="modal"><img src="assets/img/offer-products/19.jpg" alt="Product"></a></div>
                                 <div class="right">
                                     <p class="funky-font-2"></p>
-                                    <div class="name"><a href="#">Astana & Florencia</a></div>
+                                    <div class="name"><a href="#buy-modal" data-toggle="modal">Astana & Florencia</a></div>
                                     <div class="Цена font-2">Цена: <span class="Цена-new">11 000 р.</span> <span class="Цена-old"></span></div>
                                 </div>
                             </div>
@@ -510,10 +509,10 @@
 
                         <div class="col-sm-6 col-lg-4">
                             <div class="product">
-                                <div class="image"><a href="#"><img src="https://kasta.ua/imgw/loc/414x576/uploads/product_image/2020/10/212/a2c1e56fb6b042c18ffb91c9f341d491.jpg" alt="Product"></a></div>
+                                <div class="image"><a href="#buy-modal" data-toggle="modal"><img src="assets/img/offer-products/32.jpg" alt="Product"></a></div>
                                 <div class="right">
                                     <p class="funky-font-2"></p>
-                                    <div class="name"><a href="#"> Carpet  & Turkey <i class="fa fa-flag"></i></a></div>
+                                    <div class="name"><a href="#buy-modal" data-toggle="modal"> Carpet  & Turkey <i class="fa fa-flag"></i></a></div>
                                     <div class="Цена font-2">Цена: <span class="Цена-new">8 000 р.</span> <span class="Цена-old"></span></div>
                                 </div>
                             </div>
@@ -521,10 +520,10 @@
 
                         <div class="col-sm-6 col-lg-4">
                             <div class="product">
-                                <div class="image"><a href="#"><img src="https://st2.depositphotos.com/1001370/6260/i/950/depositphotos_62608847-stock-photo-colorful-carpets-in-the-store.jpg" alt="Product"></a></div>
+                                <div class="image"><a href="#buy-modal" data-toggle="modal"><img src="assets/img/offer-products/29.jpg" alt="Product"></a></div>
                                 <div class="right">
                                     <p class="funky-font-2"></p>
-                                    <div class="name"><a href="#"> Carpet  & Turkey <i class="fa fa-flag"></i></a></div>
+                                    <div class="name"><a href="#buy-modal" data-toggle="modal"> Carpet  & Turkey <i class="fa fa-flag"></i></a></div>
                                     <div class="Цена font-2">Цена: <span class="Цена-new">20 000 р.</span> <span class="Цена-old"></span></div>
                                 </div>
                             </div>
@@ -560,6 +559,57 @@
         <?php include ('footer.php'); ?>
 
 
+        <!-- Product Preview Popup 1 -->
+        <section class="modal fade" id="buy-modal" tabindex="-1" role="dialog" aria-hidden="true">
+            <div class="modal-dialog modal-lg product-modal">
+                <button class="close close-btn popup-cls" aria-label="Close" data-dismiss="modal" type="button">
+                    <i class="fa-times fa"></i>
+                </button>
+                <div class="modal-content single-product">
+                    <div class="diblock">
+                    <div class="col-lg-6 col-sm-12 col-xs-12">
+                    <div class="fotorama" data-nav="thumbs">
+                        <?php function showSpecialGoods ($cards) { 
+                            for ($i = 20; $i <= $cards; $i++) { ?> ?>
+                                <img src="assets/img/offer-products/<?php echo $i.'.jpg'; ?>" alt="Изображение коврового изделия">
+                        <?php } } showSpecialGoods(43);?>
+
+                    </div>
+                </div>
+                        <div class="spc-15 hidden-lg clear"></div>
+                        <div class=" col-sm-12 col-lg-6 col-xs-12">
+                            <div class="summary entry-summary">
+                                <div class="product_title_wrapper">
+                                    <div itemprop="name" class="product_title entry-title">
+                                        Турецкие ковры <i class="fa fa-flag"></i> <span class="thm-clr">Иранские ковры</span>
+                                        <p class="font-3 fsz-18 no-mrgn Цена"> <b class="amount blk-clr"><?php echo abs(mt_rand(15, 20) - 3); ?>000 р.</b> <del><?php echo 2 + mt_rand(15, 20); ?> 000 р.</del> </p>       
+                                    </div>
+                                </div>
+                            <div itemprop="description" class="fsz-15">
+                                <p>Основным материалом, необходимым для каждого текстильного изделия, является волокно. Волокна могут быть натурального или искусственного происхождения.Волокна натурального происхождения в свою очередь делятся на растительные и животные материалы. <br><br> Среди натуральных растительных материалов для изготовления ковров применяются такие как лен, хлопок, джут, пенька, сизаль и некоторые другие. Материалы животного происхождения – это Иранские ковры и шелк.</p>                                  
+                            </div>
+                                <!-- Contact Info --> 
+                                <section class="add-wrap">
+                                    <div class=" text-center">
+                                        <h2 class="fsz-35"> <span class="bold-font-3 wht-clr">Ковры </span> <span class="thm-clr funky-font">дорожки</span> </h2>
+                                        <a href="https://www.instagram.com/kovry_super" target="_blank"><i class="fa fa-instagram custom-icon"></i></a>
+                                        <a href="https://vk.com/kovry_dorozhki_kovrolin_makeevka" target="_blank"><i class="fa fa-vk custom-icon"></i></a>
+                                        <div class="fancy-heading text-center">
+                                            <h2 class="title-2">часы работы</h2>                           
+                                        </div>
+                                        <p>Вторник - Воскресенье с 10.00 - 17.00 </p>
+                                        <a class="fancy-btn fancy-btn-big fsz-20" style="cursor: pointer; margin-top: 12px; margin-bottom: 22px;" href="tel:+380 71 407 44 80">Позвоните нам</a>
+                                        <p class="thm-clr">Понедельник - Выходной</p>
+                                    </div>
+                                </section>
+                                <!-- /Contact Info -->
+                            </div><!-- .summary -->
+                        </div>  
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- / Product Preview Popup 1-->
 
 
         <!-- Product Preview Popup 1 -->
