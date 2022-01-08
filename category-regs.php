@@ -124,7 +124,7 @@
                                                 </div>
                                                 <div class="product-content">
                                                     <h3> <a class="title-3 fsz-16" href="#"> <?php echo $goods_regs['title']; ?> </a> </h3>
-                                                    <p class="font-3">Price: <span class="thm-clr"> <?php echo $goods_regs['price']; ?> руб.</span> </p>    
+                                                    <p class="font-3">Цена: <span class="thm-clr"> <?php echo $goods_regs['Цена']; ?> руб.</span> </p>    
                                                 </div>
                                             </div>
                                         </div>
@@ -139,7 +139,137 @@
                                     </ul>
                                 </nav>
                             </div>
-                            <!-- / Product Grid View -->
+                                 <!-- Product List View -->
+                            <div id="list-view" class="tab-pane fade" role="tabpanel">
+                                <div class="cat-list-view">
+                                    <div class="hvr2 row">
+                                        <div class="portfolio-wrapper">
+                                            <div class="col-md-3 col-sm-5">
+                                                <div class="portfolio-thumb">
+                                                    <img src="assets/img/offer-products/<?php echo mt_rand(1, 10); ?>.jpg" alt="">
+                                                    <div class="portfolio-content"> 
+                                                        <div class="pop-up-icon">                 
+                                                            <a class="center-link" href="#product-preview" data-toggle="modal"><i class="fa fa-search"></i></a>
+                                                        </div>                                                  
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="col-md-9 col-sm-7">
+                                                <div class="product-content">
+                                                    <a class="title-3 fsz-16" href="#"> Astana & Florencia </a> 
+                                                    <div class="rating">                                                              
+                                                        <span class="star active"></span>
+                                                        <span class="star active"></span>
+                                                        <span class="star active"></span>                                           
+                                                        <span class="star active"></span>
+                                                        <span class="star active"></span>
+                                                    </div>
+                                                    <p class="font-3">Цена: <span class="thm-clr"><?php echo 5 + mt_rand(5, 15); ?>000р. </span> </p>    
+                                                    <p class="font-3"> В наличии<span class="grn-clr"> Есть </span>  </p>
+                                                    <p>   </p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="hvr2 row">
+                                        <div class="portfolio-wrapper">
+                                            <div class="col-md-3 col-sm-5">
+                                                <div class="portfolio-thumb">
+                                                    <img src="assets/img/offer-products/<?php echo mt_rand(11, 20); ?>.jpg" alt="">
+                                                    <div class="portfolio-content"> 
+                                                        <div class="pop-up-icon">                 
+                                                            <a class="center-link" href="#product-preview" data-toggle="modal"><i class="fa fa-search"></i></a>
+                                                        </div>                                                  
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="col-md-9 col-sm-7">
+                                                <div class="product-content">
+                                                    <a class="title-3 fsz-16" href="#">  CARPET & TURKEY   </a> 
+                                                    <div class="rating">                                                              
+                                                        <span class="star active"></span>
+                                                        <span class="star active"></span>
+                                                        <span class="star active"></span>                                           
+                                                        <span class="star active"></span>
+                                                        <span class="star active"></span>
+                                                    </div>
+                                                    <p class="font-3">Цена: <span class="thm-clr"><?php echo 5 + mt_rand(5, 15); ?>000р. </span> </p>    
+                                                    <p class="font-3"> В наличии<span class="red-clr"> Нет </span>  </p>
+                                                    <p>   </p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="hvr2 row">
+                                        <div class="portfolio-wrapper">
+                                            <div class="col-md-3 col-sm-5">
+                                                <div class="portfolio-thumb">
+                                                    <img src="assets/img/offer-products/<?php echo mt_rand(21, 30); ?>.jpg" alt="">
+                                                    <div class="portfolio-content"> 
+                                                        <div class="pop-up-icon">                 
+                                                            <a class="center-link" href="#product-preview" data-toggle="modal"><i class="fa fa-search"></i></a>
+                                                        </div>                                                  
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="col-md-9 col-sm-7">
+                                                <div class="product-content">
+                                                    <a class="title-3 fsz-16" href="#"> Astana & Florencia </a> 
+                                                    <div class="rating">                                                              
+                                                        <span class="star active"></span>
+                                                        <span class="star active"></span>
+                                                        <span class="star active"></span>                                           
+                                                        <span class="star active"></span>
+                                                        <span class="star half"></span>
+                                                    </div>
+                                                    <p class="font-3">Цена: <span class="thm-clr"><?php echo 5 + mt_rand(5, 15); ?>000р. </span> </p>    
+                                                    <p class="font-3"> В наличии<span class="grn-clr"> Есть </span>  </p>
+                                                    <p>   </p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <div class="hvr2 row">
+                                        <div class="portfolio-wrapper">
+                                            <div class="col-md-3 col-sm-5">
+                                                <div class="portfolio-thumb">
+                                                    <img src="assets/img/offer-products/<?php echo mt_rand(31, 43); ?>.jpg" alt="">
+                                                    <div class="portfolio-content"> 
+                                                        <div class="pop-up-icon">                 
+                                                            <a class="center-link" href="#product-preview" data-toggle="modal"><i class="fa fa-search"></i></a>
+                                                        </div>                                                  
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="col-md-9 col-sm-7">
+                                                <div class="product-content">
+                                                    <a class="title-3 fsz-16" href="#"> CARPET & TURKEY  </a> 
+                                                    <div class="rating">                                                              
+                                                        <span class="star active"></span>
+                                                        <span class="star active"></span>
+                                                        <span class="star active"></span>                                           
+                                                        <span class="star active"></span>
+                                                        <span class="star active"></span>
+                                                    </div>
+                                                    <p class="font-3">Цена: <span class="thm-clr"><?php echo 5 + mt_rand(5, 15); ?>000р. </span> </p>    
+                                                    <p class="font-3"> В наличии<span class="grn-clr"> Есть </span>  </p>
+                                                    <p>   </p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <nav class="woocommerce-pagination">
+                                    <ul class="page-numbers">
+                                        <li><a class="next page-numbers" href="#"> <i class="fa fa-angle-left"></i> </a></li>
+                                        <li><span class="page-numbers current">1</span></li>
+                                        <li><a class="page-numbers" href="#">2</a></li>
+                                        <li><a class="next page-numbers" href="#"> <i class="fa fa-angle-right"></i> </a></li>
+                                    </ul>
+                                </nav>
+                            </div>
+                            <!-- / Product List View -->
                         </div>
                     </main>                            
                 </div>
@@ -160,10 +290,11 @@
                     <div class="diblock">
                         <div class="col-lg-6 col-sm-12 col-xs-12">
                             <div id="gallery-1" class="royalSlider rsUni">
-                                <a class="rsImg"  href="assets/img/offer-products/30.jpg" data-rsw="500" data-rsh="500"> <img class="rsTmb" src="assets/img/offer-products/30.jpg" alt=""></a>
-                                <a class="rsImg"  href="assets/img/offer-products/31.jpg" data-rsw="500" data-rsh="500"> <img class="rsTmb" src="assets/img/offer-products/31.jpg" alt=""></a>
-                                <a class="rsImg"  href="assets/img/offer-products/32.jpg" data-rsw="500" data-rsh="500"> <img class="rsTmb" src="assets/img/offer-products/32.jpg" alt=""></a>
-                                <a class="rsImg"  href="assets/img/offer-products/33.jpg" data-rsw="500" data-rsh="500"> <img class="rsTmb" src="assets/img/offer-products/33.jpg" alt=""></a>
+                            <?php 
+                                function showTumbnlCardsGoods ($cards) {
+                                    for ($i = 1; $i <= $cards; $i++) { ?>
+                                        <a class="rsImg" href="assets/img/regs-catalog/<?php echo $i + mt_rand(1, 10); ?>.jpg" data-rsw="500" data-rsh="500"> <img class="rsTmb" src="assets/img/regs-catalog/<?php echo $i + mt_rand(1, 10); ?>.jpg" alt="Products goods"></a>
+                            <?php } } showTumbnlCardsGoods(10); ?>
                             </div>
                         </div>
                         <div class="spc-15 hidden-lg clear"></div>
@@ -185,8 +316,7 @@
 
                                 <div class="product_title_wrapper">
                                     <div itemprop="name" class="product_title entry-title">
-                                       Astana <span class="thm-clr">Florencia</span>
-                                        <p class="font-3 fsz-18 no-mrgn price"> <b class="amount blk-clr">20 000 р.</b> <del>22 000 р.</del> </p>       
+                                       Предлагаемые  <span class="thm-clr">товары</span>
                                     </div>
                                 </div>
 
@@ -218,39 +348,6 @@
             <a href="javascript:void(0)" class="close-popup-box close-page-search"><i class="fa fa-close"></i></a>
         </div>
         <!-- / Search Popup -->
-
-        <!-- Popup: Login 1 -->
-        <div class="modal fade login-popup" id="login-popup" tabindex="-1" role="dialog" aria-hidden="true">
-            <div class="modal-dialog modal-lg">                
-                <button type="button" class="close close-btn popup-cls" data-dismiss="modal" aria-label="Close"> <i class="fa-times fa"></i> </button>
-
-                <div class="modal-content login-1 wht-clr">   
-                    <div class="login-wrap text-center">                        
-                        <h2 class="fsz-35 spcbtm-15"> <span class="bold-font-3 wht-clr">GoShop</span> <span class="thm-clr funky-font">fashion</span> </h2>
-                        <p class="fsz-20 title-3"> WELCOME TO OUR  WONDERFUL WORLD </p>
-                        <p class="fsz-15 bold-font-4"> Did you know that we ship to over <span class="thm-clr"> 24 different countries </span> </p>                       
-
-                        <div class="login-form">
-                            <a class="fb-btn btn spcbtm-15" href="#"> <i class="fa fa-facebook btn-icon"></i>Login with Facebook </a>
-
-                            <p class="bold-font-2 fsz-12 signup"> OR SIGN UP </p>
-
-                            <form class="login">
-                                <div class="form-group"><input type="text" placeholder="Email" class="form-control"></div>
-                                <div class="form-group"><input type="text" placeholder="Password" class="form-control"></div>
-                                <div class="form-group">
-                                    <button class="alt fancy-button" type="submit"> <span class="fa fa-lightbulb-o"></span> Login</button>
-                                </div>
-                            </form>
-
-                            <p>* Denotes mandatory field.</p>
-                            <p>** At least one telephone number is required.</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- /Popup: Login 1 --> 
 
         <!-- Top -->
         <div class="to-top" id="to-top"> <i class="fa fa-long-arrow-up"></i> </div>

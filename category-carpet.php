@@ -114,13 +114,11 @@
                                                                 <span class="star active"></span>
                                                                 <span class="star active"></span>
                                                                 <span class="star active"></span>                                           
-                                                                <span class="star"></span>
-                                                                <span class="star"></span>
+                                                                <span class="star active"></span>
+                                                                <span class="star active"></span>
                                                             </div>
                                                             <div class="pop-up-icon">                 
-                                                                <a  data-toggle="modal" href="#product-preview" class="center-link"><i class="fa fa-search"></i></a>
-                                                                   
-                                                                
+                                                                <a class="center-link"><i class="fa fa-hand-o-up"></i></a>
                                                             </div>                                                   
                                                         </div>
                                                     </div>
