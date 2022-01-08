@@ -115,13 +115,11 @@
                                                             <span class="star active"></span>
                                                             <span class="star active"></span>
                                                             <span class="star active"></span>
-                                                            <span class="star"></span>
-                                                            <span class="star"></span>
+                                                            <span class="star active"></span>
+                                                            <span class="star active"></span>
                                                         </div>
                                                         <div class="pop-up-icon">
-                                                            <a  data-toggle="modal" href="#product-preview" class="center-link"><i class="fa fa-search"></i></a>
-                                                            
-                                                            
+                                                            <a class="center-link"><i class="fa fa-hand-o-up"></i></a>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -144,153 +142,6 @@
                                 </nav>
                             </div>
                             <!-- / Product Grid View -->
-
-                            <!-- Product List View -->
-                            <div id="list-view" class="tab-pane fade" role="tabpanel">
-                                <div class="cat-list-view">
-                                    <div class="hvr2 row">
-                                        <div class="portfolio-wrapper">
-                                            <div class="col-md-3 col-sm-5">
-                                                <div class="portfolio-thumb">
-                                                    <img class="img__item" src="assets/img/offer-products/2.jpg" alt="">
-                                                    <div class="portfolio-content"> 
-                                                        <div class="pop-up-icon">                 
-                                                            <a class="center-link" href="#product-preview" data-toggle="modal"><i class="fa fa-search"></i></a>
-                                                               
-                                                            
-                                                        </div>                                                  
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="col-md-9 col-sm-7">
-                                                <div class="product-content">
-                                                    <a class="title-3 fsz-16" href="#"> Astana & Florencia </a> 
-                                                    <div class="rating">                                                              
-                                                        <span class="star active"></span>
-                                                        <span class="star active"></span>
-                                                        <span class="star active"></span>                                           
-                                                        <span class="star"></span>
-                                                        <span class="star"></span>
-                                                    </div>
-                                                    <p class="font-3">Price: <span class="thm-clr"><?php echo 5 + mt_rand(5, 15); ?>000р. </span> </p>    
-                                                    <p class="font-3"> В наличии<span class="grn-clr"> Есть </span>  </p>
-                                                    <p>   </p>
-                                                    <a class="fancy-btn fancy-btn-small" href="index.php">Посмотреть</a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="hvr2 row">
-                                        <div class="portfolio-wrapper">
-                                            <div class="col-md-3 col-sm-5">
-                                                <div class="portfolio-thumb">
-                                                    <img class="img__item" src="http://brandcarpet.ru/upload/medialibrary/c86/c8688b32f58def98d8c9bc856a8b3069.jpg" alt="">
-                                                    <div class="portfolio-content"> 
-                                                        <div class="pop-up-icon">                 
-                                                            <a class="center-link" href="#product-preview" data-toggle="modal"><i class="fa fa-search"></i></a>
-                                                               
-                                                            
-                                                        </div>                                                  
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="col-md-9 col-sm-7">
-                                                <div class="product-content">
-                                                    <a class="title-3 fsz-16" href="#">  CARPET & TURKEY   </a> 
-                                                    <div class="rating">                                                              
-                                                        <span class="star active"></span>
-                                                        <span class="star active"></span>
-                                                        <span class="star active"></span>                                           
-                                                        <span class="star"></span>
-                                                        <span class="star"></span>
-                                                    </div>
-                                                    <p class="font-3">Price: <span class="thm-clr"><?php echo 5 + mt_rand(5, 15); ?>000р. </span> </p>    
-                                                    <p class="font-3"> В наличии<span class="red-clr"> Нет </span>  </p>
-                                                    <p>   </p>
-                                                    <a class="fancy-btn fancy-btn-small" href="index.php">Посмотреть</a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="hvr2 row">
-                                        <div class="portfolio-wrapper">
-                                            <div class="col-md-3 col-sm-5">
-                                                <div class="portfolio-thumb">
-                                                    <img class="img__item" src="https://ae01.alicdn.com/kf/HTB1bCAkNNYaK1RjSZFnq6y80pXa3/-.jpg_q50.jpg" alt="">
-                                                    <div class="portfolio-content"> 
-                                                        <div class="pop-up-icon">                 
-                                                            <a class="center-link" href="#product-preview" data-toggle="modal"><i class="fa fa-search"></i></a>
-                                                               
-                                                            
-                                                        </div>                                                  
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="col-md-9 col-sm-7">
-                                                <div class="product-content">
-                                                    <a class="title-3 fsz-16" href="#"> Astana & Florencia </a> 
-                                                    <div class="rating">                                                              
-                                                        <span class="star active"></span>
-                                                        <span class="star active"></span>
-                                                        <span class="star active"></span>                                           
-                                                        <span class="star active"></span>
-                                                        <span class="star half"></span>
-                                                    </div>
-                                                    <p class="font-3">Price: <span class="thm-clr"><?php echo 5 + mt_rand(5, 15); ?>000р. </span> </p>    
-                                                    <p class="font-3"> В наличии<span class="grn-clr"> Есть </span>  </p>
-                                                    <p>   </p>
-                                                    <a class="fancy-btn fancy-btn-small" href="index.php">Посмотреть</a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                    <div class="hvr2 row">
-                                        <div class="portfolio-wrapper">
-                                            <div class="col-md-3 col-sm-5">
-                                                <div class="portfolio-thumb">
-                                                    <img class="img__item" src="https://ae01.alicdn.com/kf/HTB1vb8NbDjxK1Rjy0Fnq6yBaFXaH/Zeegle.jpg" alt="">
-                                                    <div class="portfolio-content"> 
-                                                        <div class="pop-up-icon">                 
-                                                            <a class="center-link" href="#product-preview" data-toggle="modal"><i class="fa fa-search"></i></a>
-                                                               
-                                                            
-                                                        </div>                                                  
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="col-md-9 col-sm-7">
-                                                <div class="product-content">
-                                                    <a class="title-3 fsz-16" href="#"> CARPET & TURKEY  </a> 
-                                                    <div class="rating">                                                              
-                                                        <span class="star active"></span>
-                                                        <span class="star active"></span>
-                                                        <span class="star active"></span>                                           
-                                                        <span class="star"></span>
-                                                        <span class="star"></span>
-                                                    </div>
-                                                    <p class="font-3">Price: <span class="thm-clr"><?php echo 5 + mt_rand(5, 15); ?>000р. </span> </p>    
-                                                    <p class="font-3"> В наличии<span class="grn-clr"> Есть </span>  </p>
-                                                    <p>   </p>
-                                                    <a class="fancy-btn fancy-btn-small" href="index.php">Посмотреть</a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-
-                          
-                               
-                                <nav class="woocommerce-pagination">
-                                    <ul class="page-numbers">
-                                        <li><a class="next page-numbers" href="category-regs.php"><i class="fa fa-angle-left"></i> </a></li>
-                                        <li><span class="page-numbers">1</span></li>
-                                        <li><span class="page-numbers current" >2</span></li>
-                                        <li><a class="next page-numbers" href="category-regs-page-one.php"> <i class="fa fa-angle-right"></i> </a></li>
-                                    </ul>
-                                </nav>
-                            </div>
-                            <!-- / Product List View -->
                         </div>
                     </main>                            
                 </div>
