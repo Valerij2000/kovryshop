@@ -4000,6 +4000,9 @@ form .required {
     background-image: url("../img/banner/kover.jpg");
     background-image: cover;
 }
+.popup-special-goods {
+    border-radius: 15px;
+}
 .add-wrap {
     background: rgba(20, 20, 20, 0.97) none repeat scroll 0 0;
     padding: 40px 20px;

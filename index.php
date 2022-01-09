@@ -605,7 +605,7 @@
                                 <p>Основным материалом, необходимым для каждого текстильного изделия, является волокно. Волокна могут быть натурального или искусственного происхождения.Волокна натурального происхождения в свою очередь делятся на растительные и животные материалы. <br><br> Среди натуральных растительных материалов для изготовления ковров применяются такие как лен, хлопок, джут, пенька, сизаль и некоторые другие. Материалы животного происхождения – это Иранские ковры и шелк.</p>                                  
                             </div>
                                 <!-- Contact Info --> 
-                                <section class="add-wrap">
+                                <section class="add-wrap popup-special-goods">
                                     <div class=" text-center">
                                         <h2 class="fsz-35"> <span class="bold-font-3 wht-clr">Ковры </span> <span class="thm-clr funky-font">дорожки</span> </h2>
                                         <a href="https://www.instagram.com/kovry_super" target="_blank"><i class="fa fa-instagram custom-icon"></i></a>
