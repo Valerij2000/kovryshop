@@ -89,11 +89,11 @@
                     </div>
                 </div>
                 <div class="gst-slide">
-                    <img src="https://dizainexpert.ru/wp-content/uploads/2020/03/kovrovaya-dorozhka-v-prihozhej.png" alt=""/>
+                    <img src="assets/img/catalog/06.jpeg" alt=""/>
                     <div class="gst-caption container theme-container">
                         <div>
                             <div class="caption-center">
-                                <p class="slider-title"> <span class="fsz-90 funky-font thm-clr">Дорожки</span> <span class="funky-font-2 fsz-28">наши дорожки <br> являются самыми прочными </span> </p>
+                                <p class="slider-title"> <span class="fsz-90 funky-font thm-clr">Дорожки</span></p>
                                 <a class="fancy-btn fsz-16" href="category-carpet.php">найти дорожку</a>
                             </div>
                         </div>

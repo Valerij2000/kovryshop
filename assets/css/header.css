@@ -823,8 +823,13 @@
     overflow: hidden;
 }
 .owl-carousel .owl-item img{
-    width: auto !important;
+    width: 100%;
     margin: auto;
+}
+@media (min-width: 479px) {
+    .owl-carousel .owl-item img{
+        height: 800px;
+    }
 }
 .thumbnail-wrap .thumbnail-conten {
     backface-visibility: hidden;
