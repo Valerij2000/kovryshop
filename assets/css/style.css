@@ -3621,7 +3621,7 @@ form .required {
 /* Fancy Titles */
 .fancy-heading {
     position: relative;
-    padding-top: 25px;
+    padding: 0 10px 0px 10px;
 }
 
 .fancy-heading h3 {

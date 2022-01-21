@@ -419,7 +419,7 @@
                 <div class="container theme-container">
                     <div class="row">
                         <div class="col-md-7 col-sm-12 col-xs-12">
-                            <h2>Нашли ваш <span class="thm-clr extbold-font-4">лююбимый ковер мечты ?</span> Зачем ждать</h2>
+                            <h2>Нашли <span class="thm-clr extbold-font-4">ковер своей мечты ?</span> Зачем ждать</h2>
                             <p class="gry-clr fsz-16">Позвоните по номеру телефона и осуществите заказ получив скидку 15 %!</p>
                         </div>
 
