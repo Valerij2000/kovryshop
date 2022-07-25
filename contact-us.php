@@ -88,7 +88,7 @@
                         <h5 class="funky-font-2">По всем интересующим вас вопросам заполните форму ниже.</h5>
                     </div>                  
                     <div class="cntct-frm  clearfix">
-                        <form action="telegram.php" method="POST" id="contact-form" class="col-md-offset-2 no-padding col-md-8 col-sm-12">
+                        <form action="#" id="contact-form" class="col-md-offset-2 no-padding col-md-8 col-sm-12">
                             <div class="form-group col-sm-12 form-alert"></div>
                             <div class="contact-form">
                                 <div class="form-group col-sm-6">
