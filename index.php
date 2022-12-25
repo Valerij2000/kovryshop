@@ -77,7 +77,7 @@
             <!-- Main Slider -->
             <div id="owl-carousel-main" class="owl-carousel nav-1">
                 <div class="gst-slide">
-                    <img src="assets/img/catalog/01.jpg"  alt=""/>
+                    <img class="img-main-slide" src="assets/img/catalog/bg-main.jpg"  alt=""/>
                     <div class="gst-caption container theme-container">
                         <div>
                             <div class="caption-center">
@@ -89,7 +89,7 @@
                     </div>
                 </div>
                 <div class="gst-slide">
-                    <img src="assets/img/catalog/06.jpeg" alt=""/>
+                    <img class="img-main-slide" src="assets/img/catalog/06.jpeg" alt=""/>
                     <div class="gst-caption container theme-container">
                         <div>
                             <div class="caption-center">
@@ -100,7 +100,7 @@
                     </div>
                 </div>
                 <div class="gst-slide">
-                    <img class="img-fluid" src="assets/img/catalog/05.jpeg" alt=""/>
+                    <img class="img-main-slide" class="img-fluid" src="assets/img/catalog/bg-main.jpeg" alt=""/>
                     <div class="gst-caption container theme-container">
                         <div>
                             <div class="caption-right">
@@ -112,27 +112,6 @@
                 </div>
             </div>
             <!-- / Main Slider -->
-
-            <!-- Contact Info --> 
-            <section class="gst-row our-address">
-                <div class="container theme-container">
-                    <div class="col-md-8 col-md-offset-2 col-sm-10 col-sm-offset-1 add-wrap">
-                        <div class=" text-center">
-                            <h2 class="fsz-35"> <span class="bold-font-3 wht-clr">Ковры </span> <span class="thm-clr funky-font">дорожки</span> </h2>
-                            <a href="https://www.instagram.com/kovry_super" target="_blank"><i class="fa fa-instagram custom-icon"></i></a>
-                            <a href="https://vk.com/kovry_dorozhki_kovrolin_makeevka" target="_blank"><i class="fa fa-vk custom-icon"></i></a>
-                            <div class="fancy-heading text-center">
-                                <h2 class="title-2">часы работы</h2>                           
-                            </div>
-                            <p>Вторник - Воскресенье с 10.00 - 17.00 </p>
-                            <a class="fancy-btn fancy-btn-big fsz-20" style="cursor: pointer; margin-top: 12px; margin-bottom: 22px;" href="tel:+380 71 407 44 80">Позвоните нам</a>
-                            <p class="thm-clr">Понедельник - Выходной</p>
-                        </div>
-                    </div>
-                </div>
-            </section>
-            <!-- /Contact Info -->
-
             <!-- Banner -->
             <section class="banner clear">
                 <div class="col-lg-4 col-md-4 col-sm-12 no-padding promo-wrap">
@@ -153,7 +132,7 @@
 
                 <div class="col-lg-4 col-md-4 col-sm-6 no-padding promo-wrap">
                     <div class="gst-promo gst-color-white">
-                        <img src="assets/img/catalog/03.jpg" alt="" />
+                        <img src="assets/img/catalog/main-left.jpg" alt="" />
 
                         <div class="vertical-align-div gst-promo-text col-lg-10 right">
                             <div>
@@ -548,27 +527,6 @@
                 </div>
             </section>
             <!-- / Special Offers -->
-
-            <!-- OPENING HOURS -->
-            <section class="gst-row our-address">
-                <div class="container theme-container">
-                    <div class="col-md-8 col-md-offset-2 col-sm-10 col-sm-offset-1 add-wrap">
-                        <div class=" text-center">
-                            <h2 class="fsz-35"> <span class="bold-font-3 wht-clr">Ковры </span> <span class="thm-clr funky-font">дорожки</span> </h2>
-                            <a href="https://www.instagram.com/kovry_super" target="_blank"><i class="fa fa-instagram custom-icon"></i></a>
-                            <a href="https://vk.com/kovry_dorozhki_kovrolin_makeevka" target="_blank"><i class="fa fa-vk custom-icon"></i></a>
-                            <div class="fancy-heading text-center">
-                                <h2 class="title-2">часы работы</h2>                           
-                            </div>
-                            <p>Вторник - Воскресенье с 10.00 - 17.00 </p>
-                            <a class="fancy-btn fancy-btn-big fsz-20" style="cursor: pointer; margin-top: 12px; margin-bottom: 22px;" href="tel:+380 71 407 44 80">Позвоните нам</a>
-                            <p class="thm-clr">Понедельник - Выходной</p>
-                        </div>
-                    </div>
-                </div>
-            </section>
-            <!-- / OPENING HOURS -->
-
         </div>                                                                                                                       
         <div class="clear"></div>
 
