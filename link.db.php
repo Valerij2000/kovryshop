@@ -15,9 +15,9 @@
 // hosting
 
 define('DB_HOST', 'localhost');
-define('DB_USER', 'valer416_kovry');
-define('DB_PASSWORD', 'alina1606');
-define('DB_NAME', 'valer416_kovryshop');
+define('DB_USER', 'valer189_kovry-makeevka.ru'); 
+define('DB_PASSWORD', 'iN7rJ1uY7m');
+define('DB_NAME', 'valer189_kovry-makeevka.ru');
 
 $mysql = new mysqli(DB_HOST, DB_USER, DB_PASSWORD, DB_NAME);
 
