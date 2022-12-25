@@ -4954,26 +4954,6 @@ form .required {
     visibility: visible;
 }
 
-.cart-icn {
-    background-image: url(../img/extra/cart-icn-blk.png);
-    background-repeat: no-repeat;
-    background-position: center center;
-}
-
-.cart-icn:hover {
-    background-image: url(../img/extra/cart-icn-wht.png);
-}
-
-.cart-icn2 {
-    background-image: url(../img/extra/cart-icn-wht.png);
-    background-repeat: no-repeat;
-    background-position: center center;
-}
-
-.cart-icn2:hover {
-    background-image: url(../img/extra/cart-icn-blk.png);
-}
-
 .portfolio-thumb .pop-up-icon i {
     background-color: #ffffff;
     border-radius: 2px;
@@ -5151,15 +5131,6 @@ form .required {
 .white-mask {
     background: rgba(255, 255, 255, 0.5) none repeat scroll 0 0;
 }
-
-.row-bikes,
-.row-carbon-fiber {
-    background: url("../img/banner/products-bg.jpg") no-repeat;
-    background-size: cover;
-    padding: 100px 0;
-    position: relative;
-}
-
 
 /* They Say */
 

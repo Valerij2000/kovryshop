@@ -789,15 +789,6 @@
         </button>
         <div class="modal-content single-product">
             <div class="diblock">
-                <div class="col-lg-6 col-sm-12 col-xs-12">
-                    <div class="fotorama" data-nav="thumbs">
-                        <img src="https://images.ua.prom.st/2605223471_w600_h600_2605223471.jpg" alt="">
-                        <img src="https://www.star-carpet.ru/images/products/belgijskie-kovry/23-06-2019/kover-riva-1641-75-belgiya.jpg" alt="">
-                        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlrB2IEL7fp--D8ImHebkY9w70GypqUNX-vpK8XEF5TZpYkIZZeWn_pp_MFtQ2qo1Qps4&usqp=CAU" alt="">
-                        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj0Tr49LWXZeYzRBJh51v5gV4UERH-mYWR_KNbrdNWATn5DBBw1uuO7wAspRT9ADl5YPk&usqp=CAU" alt="">
-                        <img src="https://kover-russia.ru/upload/iblock/568/568991d4c28ccfd4723cebd8e93878b8.jpg" alt="">
-                    </div>
-                </div>
                 <div class="spc-15 hidden-lg clear"></div>
                 <div class=" col-sm-12 col-lg-6 col-xs-12">
                     <div class="summary entry-summary">
@@ -838,18 +829,9 @@
         </button>
         <div class="modal-content single-product">
             <div class="diblock">
-                <div class="col-lg-6 col-sm-12 col-xs-12">
-                    <div class="fotorama" data-nav="thumbs">
-                        <img src="https://kovrenok.ru/upload/iblock/f35/Osta_Patina_41043_620_2_tn.jpg" alt="">
-                        <img src="https://kovrenok.ru/upload/iblock/180/Osta_Patina_41043_620_3_tn.jpg" alt="">
-                        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdZvg8xxxuGHme6s6zDsAc9w-VOEwqJedqAk3K0kOIpi9UZUC1c2Ywjx1eDFs4CHFqdkY&usqp=CAU" alt="">
-                    </div>
-                </div>
                 <div class="spc-15 hidden-lg clear"></div>
                 <div class=" col-sm-12 col-lg-6 col-xs-12">
                     <div class="summary entry-summary">
-                        
-
                         <div class="product_title_wrapper">
                             <div itemprop="name" class="product_title entry-title">
                                 Турецкие ковры <i class="fa fa-flag"></i> <span class="thm-clr">Иранские ковры</span>
@@ -891,7 +873,6 @@
                         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkshYtw9W4dVG-rMf1viyREUoXIKvhDoG-4ILFUycDJJpLF4I2PmbncaYHUJJqtzcy_tQ&usqp=CAU" alt="">
                         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiqhDEaqaC4CiItF_V2N8GqjVrzE9lzDPICTXD7MKbTE_JKrGysIJ9ydFZlCRVZArAo1A&usqp=CAU" alt="">
                         <img src="https://i2.rozetka.ua/goods/18155442/211737157_images_18155442607.jpg" alt="">
-                        <img src="https://суперполы.рф/upload/resize_cache/iblock/3d2/450_450_1/3d2c32899b75bbcd287e8c4af01bff31.jpeg" alt="">
                     </div>
                 </div>
                 <div class="spc-15 hidden-lg clear"></div>
